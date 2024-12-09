@@ -1,124 +1,42 @@
 import os
-import uuid
 from urllib.parse import quote_plus
 
 from dotenv import load_dotenv
-from flask import Flask, jsonify, request, abort
-from flask_sqlalchemy import SQLAlchemy
-from sqlalchemy import func
+from flask import Flask, jsonify
 
-load_dotenv()
+from models import db
+from routes import api
 
-app = Flask(__name__)
 
-app.config["SQLALCHEMY_DATABASE_URI"] = (
-    f"postgresql://{quote_plus(os.getenv('DB_USER'))}:{quote_plus(os.getenv('DB_PASSWORD'))}"
-    f"@{os.getenv('DB_HOST')}:{os.getenv('DB_PORT')}/{os.getenv('DB_NAME')}"
-)
-app.config["SQLALCHEMY_TRACK_MODIFICATIONS"] = False
+def create_app() -> Flask:
+    load_dotenv()
 
-db = SQLAlchemy(app)
+    app = Flask(__name__)
+    db_user = quote_plus(os.getenv("DB_USER"))
+    db_pass = quote_plus(os.getenv("DB_PASSWORD"))
+    db_host = os.getenv("DB_HOST")
+    db_port = os.getenv("DB_PORT")
+    db_name = os.getenv("DB_NAME")
 
-class ClassificationQuestion(db.Model):
-	id = db.Column(db.String(36), primary_key=True, default=lambda: str(uuid.uuid4()))
-	query = db.Column(db.String(10000), nullable=False)
-	context = db.Column(db.String(10000), nullable=False)
-	response = db.Column(db.String(10000), nullable=False)
-
-@app.route("/")
-def home():
-	return jsonify({"message": "Hello world"})
-
-@app.route("/questions", methods=["GET"])
-def get_questions():
-    questions = db.session.execute(db.select(ClassificationQuestion)).scalars()
-    return jsonify([{"id": question.id, "query": question.query, "context": question.context, "response": question.response} for question in questions])
-
-@app.route("/questions/<string:id>", methods=["GET"])
-def get_question(id):
-    question = db.session.get(ClassificationQuestion, id)
-    if not question:
-        abort(404)
-    return jsonify({
-        "id": question.id,
-        "query": question.query,
-        "context": question.context,
-        "response": question.response
-    })
-
-@app.route("/questions/random", methods=["GET"])
-def get_random_question():
-    question = db.session.execute(
-        db.select(ClassificationQuestion).order_by(func.random()).limit(1)
-    ).scalar()
-    if not question:
-        abort(404)
-    return jsonify({
-        "id": question.id,
-        "query": question.query,
-        "context": question.context,
-        "response": question.response
-    })
-
-@app.route("/questions", methods=["POST"])
-def create_question():
-    if not request.is_json:
-        abort(400)
-    data = request.get_json()
-    
-    required_fields = ["query", "context", "response"]
-    if not all(field in data for field in required_fields):
-        abort(400)
-    
-    question = ClassificationQuestion(
-        query=data["query"],
-        context=data["context"],
-        response=data["response"]
+    app.config["SQLALCHEMY_DATABASE_URI"] = (
+        f"postgresql://{db_user}:{db_pass}" f"@{db_host}:{db_port}/{db_name}"
     )
-    db.session.add(question)
-    db.session.commit()
-    
-    return jsonify({
-        "id": question.id,
-        "query": question.query,
-        "context": question.context,
-        "response": question.response
-    }), 201
+    app.config["SQLALCHEMY_TRACK_MODIFICATIONS"] = False
 
-@app.route("/questions/<string:id>", methods=["PUT"])
-def update_question(id):
-    if not request.is_json:
-        abort(400)
-    
-    question = db.session.get(ClassificationQuestion, id)
-    if not question:
-        abort(404)
-    
-    data = request.get_json()
-    if "query" in data:
-        question.query = data["query"]
-    if "context" in data:
-        question.context = data["context"]
-    if "response" in data:
-        question.response = data["response"]
-    
-    db.session.commit()
-    return jsonify({
-        "id": question.id,
-        "query": question.query,
-        "context": question.context,
-        "response": question.response
-    })
+    db.init_app(app)
+    app.register_blueprint(api)
 
-@app.route("/questions/<string:id>", methods=["DELETE"])
-def delete_question(id):
-    question = db.session.get(ClassificationQuestion, id)
-    if not question:
-        abort(404)
-    
-    db.session.delete(question)
-    db.session.commit()
-    return "", 204
+    @app.errorhandler(400)
+    def bad_request(e):
+        return jsonify(error="Bad Request"), 400
+
+    @app.errorhandler(404)
+    def not_found(e):
+        return jsonify(error="Not Found"), 404
+
+    return app
+
 
 if __name__ == "__main__":
-	app.run(debug=True)
+    app = create_app()
+    app.run(debug=True)

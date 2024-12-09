@@ -32,3 +32,9 @@
       DB_USER=<your-db-user>
       DB_PASSWORD=<your-db-password>
      ```
+
+5. **Set up dev requirements**:
+   ```bash
+   pip install -r requirements-dev.txt
+   pre-commit install
+   ```

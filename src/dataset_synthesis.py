@@ -19,17 +19,30 @@ with open(measured_scores, "r", encoding="utf-8") as csv_file:
     csv_reader = csv.reader(csv_file)
     fields = next(csv_reader)
 
-    assert "Faithfulness" == fields[-2], "No column for the measured faithfulness-score was found!"
-    assert "Relevancy" == fields[-1], "No column for the measured relevancy-score was found!"
+    assert (
+        "Faithfulness" == fields[-2]
+    ), "No column for the measured faithfulness-score was found!"
+    assert (
+        "Relevancy" == fields[-1]
+    ), "No column for the measured relevancy-score was found!"
 
     for line in csv_reader:
         csv_rows.append(line)
 
 cross_check_queries = list(zip(data.keys(), map(lambda rs: rs[0], csv_rows)))
-assert all(tup[0] == tup[1] for tup in cross_check_queries), "Mismatch in the queries from the two input-files!"
+assert all(
+    tup[0] == tup[1] for tup in cross_check_queries
+), "Mismatch in the queries from the two input-files!"
 
-cross_check_responses = list(zip((data[key]["response_text"] for key in data.keys()), map(lambda rs: rs[1], csv_rows)))
-assert all(tup[0] == tup[1] for tup in cross_check_responses), "Mismatch in the responses from the two input-files!"
+cross_check_responses = list(
+    zip(
+        (data[key]["response_text"] for key in data.keys()),
+        map(lambda rs: rs[1], csv_rows),
+    )
+)
+assert all(
+    tup[0] == tup[1] for tup in cross_check_responses
+), "Mismatch in the responses from the two input-files!"
 
 output_list = []
 for idx, tup in enumerate(zip(data.items(), csv_rows)):
@@ -38,9 +51,11 @@ for idx, tup in enumerate(zip(data.items(), csv_rows)):
         "id": f"Q{idx + 1}",
         "query": query,
         "response": response_data["response_text"],
-        "context_snippets": list(node["node_content"] for node in response_data["source_nodes"]),
+        "context_snippets": list(
+            node["node_content"] for node in response_data["source_nodes"]
+        ),
         "faithfulness": row[-2],
-        "relevancy": row[-1]
+        "relevancy": row[-1],
     }
     output_list.append(current_object)
 

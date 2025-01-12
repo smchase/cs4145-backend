@@ -3,6 +3,7 @@ from urllib.parse import quote_plus
 
 from dotenv import load_dotenv
 from flask import Flask, jsonify
+from flask_cors import CORS
 
 from models import db
 from routes import api
@@ -12,6 +13,7 @@ def create_app() -> Flask:
     load_dotenv()
 
     app = Flask(__name__)
+    CORS(app)
     db_user = quote_plus(os.getenv("DB_USER"))
     db_pass = quote_plus(os.getenv("DB_PASSWORD"))
     db_name = os.getenv("DB_NAME")
@@ -31,6 +33,8 @@ def create_app() -> Flask:
     app.config["SQLALCHEMY_TRACK_MODIFICATIONS"] = False
 
     db.init_app(app)
+    with app.app_context():
+        db.create_all()
     app.register_blueprint(api)
 
     @app.errorhandler(400)

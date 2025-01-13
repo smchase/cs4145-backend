@@ -41,7 +41,7 @@ def create_question() -> tuple[Dict[str, Any], int]:
         abort(400)
 
     data = request.get_json()
-    required_fields = ["query", "context", "response"]
+    required_fields = ["query", "context1", "context2", "response"]
     if not all(field in data for field in required_fields):
         abort(400)
 
@@ -61,7 +61,7 @@ def update_question(id: str) -> Dict[str, Any]:
         abort(404)
 
     data = request.get_json()
-    for field in ["query", "context", "response"]:
+    for field in ["query", "context1", "context2", "response"]:
         if field in data:
             setattr(question, field, data[field])
 

@@ -3,3 +3,4 @@ psycopg2-binary
 flask-sqlalchemy
 python-dotenv
 flask-cors
+requests

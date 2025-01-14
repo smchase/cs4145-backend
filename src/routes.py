@@ -3,7 +3,7 @@ from typing import Any, Dict, List
 from flask import Blueprint, abort, jsonify, request
 from sqlalchemy import func
 
-from models import ClassificationQuestion, db
+from models import ClassificationQuestion, UserResponse, db
 
 api = Blueprint("api", __name__)
 
@@ -77,3 +77,42 @@ def delete_question(id: str) -> tuple[str, int]:
     db.session.delete(question)
     db.session.commit()
     return "", 204
+
+
+@api.route("/responses", methods=["GET"])
+def get_responses() -> List[Dict[str, Any]]:
+    responses = db.session.execute(db.select(UserResponse)).scalars()
+    return jsonify([r.to_dict() for r in responses])
+
+
+@api.route("/responses", methods=["POST"])
+def create_response() -> tuple[Dict[str, Any], int]:
+    if not request.is_json:
+        abort(400)
+
+    data = request.get_json()
+    required_fields = [
+        "question_id",
+        "worker_id",
+        "is_faithful",
+        "is_relevant",
+        "faithfulness",
+        "relevance",
+    ]
+    if not all(field in data for field in required_fields):
+        abort(400)
+
+    # Verify question exists
+    if not db.session.get(ClassificationQuestion, data["question_id"]):
+        abort(404, description="Question not found")
+
+    # Create response with optional comments field
+    response_data = {k: data[k] for k in required_fields}
+    if "comments" in data:
+        response_data["comments"] = data["comments"]
+
+    response = UserResponse(**response_data)
+    db.session.add(response)
+    db.session.commit()
+
+    return response.to_dict(), 201

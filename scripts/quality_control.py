@@ -31,11 +31,13 @@ def _select_threshold(rationale_combinations: List[Tuple[str, str]]) -> float:
     return threshold
 
 
-def _filter_by_threshold(metric_inputs: List[Tuple[float, str]]) -> List[float]:
+def _filter_by_threshold(
+    metric_inputs: List[Tuple[float, str]]
+) -> Tuple[List[float], List[str]]:
     """
     Filters the workers' input for a given metric and data instance based on rationale-overlap (AR1 paper).
     :param metric_inputs: the scores and rationales provided by the workers for the given metric and data instance
-    :return: the scores for which rationale-overlap was on or above the threshold
+    :return: the scores and rationales for which rationale-overlap was on or above the threshold
     """  # noqa: E501
     included_indices: Set[int] = set()
 
@@ -59,22 +61,28 @@ def _filter_by_threshold(metric_inputs: List[Tuple[float, str]]) -> List[float]:
         metric_inputs[idx][0]
         for idx in range(len(metric_inputs))
         if idx in included_indices
+    ], [
+        metric_inputs[idx][1]
+        for idx in range(len(metric_inputs))
+        if idx in included_indices
     ]
 
 
 def aggregate_scores(
-    worker_inputs: List[Tuple[float, str, float, str]]
-) -> Tuple[float, float]:
+    faithfulness_inputs: List[Tuple[float, str]],
+    relevancy_inputs: List[Tuple[float, str]],
+) -> Tuple[float, List[str], float, List[str]]:
     """
     Computes the aggregated performance-metrics for a given data instance via majority vote.
-    :param worker_inputs: all inputs provided by the workers for the given data instance
-    :return: the aggregated faithfulness- and relevancy-scores
+    :param faithfulness_inputs: (faithfulness-score, rationale) pairs for the given data instance
+    :param relevancy_inputs: (relevancy-score, rationale) pairs for the given data instance
+    :return: the aggregated faithfulness- and relevancy-scores, alongside the rationales post-filtering
     """  # noqa: E501
-    filtered_faithfulness_vals: List[float] = _filter_by_threshold(
-        list(map(lambda tup: (tup[0], tup[1]), worker_inputs))
+    filtered_faithfulness_vals, faithfulness_rationales = _filter_by_threshold(
+        faithfulness_inputs
     )
-    filtered_relevancy_vals: List[float] = _filter_by_threshold(
-        list(map(lambda tup: (tup[2], tup[3]), worker_inputs))
+    filtered_relevancy_vals, relevancy_rationales = _filter_by_threshold(
+        relevancy_inputs
     )
 
     majority_faithfulness_score: float = (
@@ -88,4 +96,9 @@ def aggregate_scores(
         else 0.0
     )
 
-    return majority_faithfulness_score, majority_relevancy_score
+    return (
+        majority_faithfulness_score,
+        faithfulness_rationales,
+        majority_relevancy_score,
+        relevancy_rationales,
+    )

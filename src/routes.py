@@ -3,7 +3,7 @@ from typing import Any, Dict, List
 from flask import Blueprint, abort, jsonify, request
 from sqlalchemy import func
 
-from models import ClassificationQuestion, UserResponse, db
+from models import ClassificationQuestion, Counter, UserResponse, db
 
 api = Blueprint("api", __name__)
 
@@ -116,3 +116,24 @@ def create_response() -> tuple[Dict[str, Any], int]:
     db.session.commit()
 
     return response.to_dict(), 201
+
+
+@api.route("/counter", methods=["GET"])
+def get_counter() -> Dict[str, Any]:
+    counter = db.session.execute(db.select(Counter).where(Counter.id == 1)).scalar()
+    if not counter:
+        counter = Counter(id=1, value=0)
+        db.session.add(counter)
+        db.session.commit()
+    return counter.to_dict()
+
+
+@api.route("/counter/increment", methods=["POST"])
+def increment_counter() -> Dict[str, Any]:
+    counter = db.session.execute(db.select(Counter).where(Counter.id == 1)).scalar()
+    if not counter:
+        counter = Counter(id=1, value=0)
+        db.session.add(counter)
+    counter.value += 1
+    db.session.commit()
+    return counter.to_dict()

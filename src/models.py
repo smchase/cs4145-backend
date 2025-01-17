@@ -50,3 +50,14 @@ class UserResponse(db.Model):
             "relevance": self.relevance,
             "comments": self.comments,
         }
+
+
+class Counter(db.Model):
+    id = db.Column(db.Integer, primary_key=True)
+    value = db.Column(db.Integer, nullable=False, default=0)
+
+    def to_dict(self) -> Dict[str, Any]:
+        return {
+            "id": self.id,
+            "value": self.value,
+        }

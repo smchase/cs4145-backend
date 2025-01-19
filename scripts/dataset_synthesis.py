@@ -1,7 +1,6 @@
 import csv
 import json
 
-
 query_response_pairs = "../data/query-response-pairs.json"
 measured_scores = "../data/response-metrics.csv"
 dataset_path = "../data/dataset.json"

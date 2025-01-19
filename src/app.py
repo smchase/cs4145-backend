@@ -1,4 +1,6 @@
+import logging
 import os
+from logging.handlers import RotatingFileHandler
 from urllib.parse import quote_plus
 
 from dotenv import load_dotenv
@@ -14,6 +16,29 @@ def create_app() -> Flask:
 
     app = Flask(__name__)
     CORS(app)
+
+    # Configure logging
+    if not os.path.exists("logs"):
+        os.makedirs("logs")
+
+    file_handler = RotatingFileHandler("logs/app.log", maxBytes=10240, backupCount=10)
+    file_handler.setFormatter(
+        logging.Formatter(
+            "%(asctime)s %(levelname)s: %(message)s [in %(pathname)s:%(lineno)d]"
+        )
+    )
+    file_handler.setLevel(logging.INFO)
+    app.logger.addHandler(file_handler)
+
+    # Also log to stdout
+    stream_handler = logging.StreamHandler()
+    stream_handler.setLevel(logging.INFO)
+    app.logger.addHandler(stream_handler)
+
+    app.logger.setLevel(logging.INFO)
+    app.logger.info("Application startup")
+
+    # Database configuration
     db_user = quote_plus(os.getenv("DB_USER"))
     db_pass = quote_plus(os.getenv("DB_PASSWORD"))
     db_name = os.getenv("DB_NAME")

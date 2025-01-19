@@ -14,12 +14,16 @@ def post_question(question):
     # Transform the dataset format to match the API requirements
     data = {
         "query": question["query"],
-        "context1": question["context_snippets"][0]
-        if len(question["context_snippets"]) > 0
-        else "",
-        "context2": question["context_snippets"][1]
-        if len(question["context_snippets"]) > 1
-        else "",
+        "context1": (
+            question["context_snippets"][0]
+            if len(question["context_snippets"]) > 0
+            else ""
+        ),
+        "context2": (
+            question["context_snippets"][1]
+            if len(question["context_snippets"]) > 1
+            else ""
+        ),
         "response": question["response"],
     }
 

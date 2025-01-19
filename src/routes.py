@@ -102,6 +102,10 @@ def create_response() -> tuple[Dict[str, Any], int]:
     if not all(field in data for field in required_fields):
         abort(400)
 
+    # Verify question exists
+    if not db.session.get(ClassificationQuestion, data["question_id"]):
+        abort(404, description="Question not found")
+
     # Create response with optional comments field
     response_data = {k: data[k] for k in required_fields}
     if "comments" in data:

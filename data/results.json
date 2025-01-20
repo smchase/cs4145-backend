@@ -1,0 +1,1268 @@
+{
+    "1755d561-0cf6-4687-885e-3edbad6cbdfa": {
+        "query": "What factor is most strongly associated with a shorter sleep duration and more frequent sleep problems in children and adolescents?",
+        "response": "The factor most strongly associated with a shorter sleep duration and more frequent sleep problems in children and adolescents is screen time, particularly the use of electronic devices before bedtime.\n\n**Screen Time and Sleep Issues:**\n\nExcessive screen time, especially the use of electronic devices such as smartphones, tablets, and computers before bedtime, is strongly linked to shorter sleep duration and more frequent sleep problems in children and adolescents. The blue light emitted by these devices can interfere with the production of melatonin, a hormone that regulates sleep-wake cycles. Additionally, the stimulating content and social interactions on these devices can make it harder for children and adolescents to relax and fall asleep.\n\n**Learn More About:**\n\n- How can parents set healthy boundaries for screen time, especially before bedtime?\n- What are some alternative activities that can promote better sleep habits in children and adolescents?\n- Are there any specific guidelines for screen use that can help improve sleep quality?",
+        "measured_faithfulness": "1.0",
+        "measured_relevancy": "1.0",
+        "f_inputs": [
+            [
+                1.0,
+                "The factor most strongly associated with a shorter sleep duration and more frequent sleep problems in children and adolescents is screen time, particularly the use of electronic devices before bedtime."
+            ],
+            [
+                0.0,
+                "There are no figures on the prevalence of sleep problems in Dutch adolescents.\nThere has been insufficient research into cultural differences in sleep within the Netherland"
+            ],
+            [
+                1.0,
+                "The factor most strongly associated with a shorter sleep duration and more frequent sleep problems in children and adolescents is screen time,"
+            ],
+            [
+                1.0,
+                "The factor most strongly associated with a shorter sleep duration and more frequent sleep problems in children and adolescents is screen time, particularly the use of electronic devices before bedtime.\n\nScreen Time and Sleep Issues:\n\nExcessive screen time, especially the use of electronic devices such as smartphones, tablets, and computers before bedtime, is strongly linked to shorter sleep duration and more frequent sleep problems in children and adolescents. The blue light emitted by these devices can interfere with the production of melatonin, a hormone that regulates sleep-wake cycles. Additionally, the stimulating content and social interactions on these devices can make it harder for children and adolescents to relax and fall asleep."
+            ],
+            [
+                1.0,
+                "The factor most strongly associated with a shorter sleep duration and more frequent sleep problems in children and adolescents is screen time, particularly the use of electronic devices before bedtime."
+            ],
+            [
+                0.0,
+                "aithfulness: 2/10\nThe response does not accurately convey the information from the original text. The original text discusses various topics related to sleep in children and adolescents, including risk factors, comorbidities, and interventions, whereas the response focuses solely on screen time and sleep issues.\n"
+            ]
+        ],
+        "r_inputs": [
+            [
+                0.0,
+                "Learn More About:\n\nHow can parents set healthy boundaries for screen time, especially before bedtime?\nWhat are some alternative activities that can promote better sleep habits in children and adolescents?\nAre there any specific guidelines for screen use that can help improve sleep quality?"
+            ],
+            [
+                0.0,
+                "There are no figures on the prevalence of sleep problems in Dutch adolescents.\nThere has been insufficient research into cultural differences in sleep within the Netherland"
+            ],
+            [
+                1.0,
+                "Screen Time and Sleep Issues:\n\nExcessive screen time, especially the use of electronic devices such as smartphones, tablets, and computers before bedtime, is strongly linked to shorter sleep duration and more frequent sleep problems in children and adolescents. The blue light emitted by these devices can interfere with the production of melatonin, a hormone that regulates sleep-wake cycles. Additionally, the stimulating content and social interactions on these devices can make it harder for children and adolescents to relax and fall asleep."
+            ],
+            [
+                0.0,
+                "Learn More About:\n\nHow can parents set healthy boundaries for screen time, especially before bedtime?\nWhat are some alternative activities that can promote better sleep habits in children and adolescents?\nAre there any specific guidelines for screen use that can help improve sleep quality?"
+            ],
+            [
+                1.0,
+                "Excessive screen time, especially the use of electronic devices such as smartphones, tablets, and computers before bedtime, is strongly linked to shorter sleep duration and more frequent sleep problems in children and adolescents. "
+            ],
+            [
+                0.0,
+                "Relevance: 2/10\nThe response is not relevant to the original text, as it introduces a new topic (screen time and sleep issues) not explicitly mentioned in the original text. The original text discusses a broader range of topics related to sleep in children and adolescents."
+            ]
+        ],
+        "perceived_faithfulness": 1.0,
+        "perceived_relevancy": 0.0,
+        "f_rationales": [
+            "The factor most strongly associated with a shorter sleep duration and more frequent sleep problems in children and adolescents is screen time, particularly the use of electronic devices before bedtime."
+        ],
+        "r_rationales": [
+            "Learn More About:\n\nHow can parents set healthy boundaries for screen time, especially before bedtime?\nWhat are some alternative activities that can promote better sleep habits in children and adolescents?\nAre there any specific guidelines for screen use that can help improve sleep quality?"
+        ]
+    },
+    "60f09247-57ee-470d-8c1e-6a6c4c9e2262": {
+        "query": "What is the average sleep duration for a 6-month-old baby?",
+        "response": "The average sleep duration for a 6-month-old baby is around 14 to 15 hours per 24-hour period.\n\n**Sleep Duration for a 6-Month-Old Baby:**\n\nAt 6 months, babies typically need about 14 to 15 hours of sleep in a 24-hour period. This includes both nighttime sleep and daytime naps. Usually, a 6-month-old baby will sleep around 11-12 hours at night and take 2-3 naps during the day, with each nap lasting about 1-2 hours. It's important to note that sleep patterns can vary among babies, and some may need slightly more or less sleep.\n\n**Learn More About:**\n\n- How can parents help their 6-month-old baby establish good sleep habits?\n- What are the signs that a 6-month-old baby is getting enough sleep?\n- Are there any common sleep issues that parents of 6-month-old babies should be aware of?",
+        "measured_faithfulness": "1.0",
+        "measured_relevancy": "1.0",
+        "f_inputs": [
+            [
+                1.0,
+                "he average sleep duration for a 6-month-old baby is around 14 to 15 hours per 24-hour period."
+            ],
+            [
+                1.0,
+                "The average sleep duration for a 6-month-old baby is around 14 to 15 hours per 24-hour period."
+            ],
+            [
+                1.0,
+                "The average sleep duration for a 6-month-old baby is around 14 to 15 hours per 24-hour period"
+            ],
+            [
+                1.0,
+                "\nFaithfulness: 6/10\nThe response mentions the average sleep duration for a 6-month-old baby, which is consistent with the original text (Context 1). However, it also introduces new information not present in the original text, such as the breakdown of nighttime sleep and daytime naps."
+            ]
+        ],
+        "r_inputs": [
+            [
+                0.0,
+                "Learn More About:\n\nHow can parents help their 6-month-old baby establish good sleep habits?\nWhat are the signs that a 6-month-old baby is getting enough sleep?\nAre there any common sleep issues that parents of 6-month-old babies should be aware of?"
+            ],
+            [
+                1.0,
+                "At 6 months, babies typically need about 14 to 15 hours of sleep in a 24-hour period. This includes both nighttime sleep and daytime naps. Usually, a 6-month-old baby will sleep around 11-12 hours at night and take 2-3 naps during the day, with each nap lasting about 1-2 hours. It's important to note that sleep patterns can vary among babies, and some may need slightly more or less sleep."
+            ],
+            [
+                0.0,
+                "Sleep Duration for a 6-Month-Old Baby:\n\nAt 6 months, babies typically need about 14 to 15 hours of sleep in a 24-hour period. This includes both nighttime sleep and daytime naps. Usually, a 6-month-old baby will sleep around 11-12 hours at night and take 2-3 naps during the day, with each nap lasting about 1-2 hours. It's important to note that sleep patterns can vary among babies, and some may need slightly more or less sleep.\n\nLearn More About:\n\nHow can parents help their 6-month-old baby establish good sleep habits?\nWhat are the signs that a 6-month-old baby is getting enough sleep?\nAre there any common sleep issues that parents of 6-month-old babies should be aware of?"
+            ],
+            [
+                1.0,
+                "levance: 8/10\nThe response is relevant to the topic of sleep duration in babies, which is discussed in both Context 1 and Context 2. However, it focuses specifically on the sleep needs of 6-month-old babies, whereas the original texts provide more general information about sleep patterns in babies and children."
+            ]
+        ],
+        "perceived_faithfulness": 1.0,
+        "perceived_relevancy": 0.0,
+        "f_rationales": [
+            "he average sleep duration for a 6-month-old baby is around 14 to 15 hours per 24-hour period.",
+            "The average sleep duration for a 6-month-old baby is around 14 to 15 hours per 24-hour period.",
+            "The average sleep duration for a 6-month-old baby is around 14 to 15 hours per 24-hour period"
+        ],
+        "r_rationales": [
+            "At 6 months, babies typically need about 14 to 15 hours of sleep in a 24-hour period. This includes both nighttime sleep and daytime naps. Usually, a 6-month-old baby will sleep around 11-12 hours at night and take 2-3 naps during the day, with each nap lasting about 1-2 hours. It's important to note that sleep patterns can vary among babies, and some may need slightly more or less sleep.",
+            "Sleep Duration for a 6-Month-Old Baby:\n\nAt 6 months, babies typically need about 14 to 15 hours of sleep in a 24-hour period. This includes both nighttime sleep and daytime naps. Usually, a 6-month-old baby will sleep around 11-12 hours at night and take 2-3 naps during the day, with each nap lasting about 1-2 hours. It's important to note that sleep patterns can vary among babies, and some may need slightly more or less sleep.\n\nLearn More About:\n\nHow can parents help their 6-month-old baby establish good sleep habits?\nWhat are the signs that a 6-month-old baby is getting enough sleep?\nAre there any common sleep issues that parents of 6-month-old babies should be aware of?"
+        ]
+    },
+    "c4b49a9c-2e26-4c88-bfb1-87b145725711": {
+        "query": "What is the average total sleep duration for a newborn baby per 24 hours?",
+        "response": "The average total sleep duration for a newborn baby is around 14 to 17 hours per 24-hour period.\n\n**Sleep Duration for Newborn Babies:**\n\nNewborn babies typically need a significant amount of sleep, ranging from 14 to 17 hours per day. This sleep is distributed throughout the day and night, with newborns usually sleeping in short stretches of 2 to 4 hours at a time. Their sleep cycle is not yet fully developed, so they do not have a clear day-night pattern. Understanding this sleep requirement can help new parents manage their expectations and establish healthy sleep habits for their newborn.\n\n**Learn More About:**\n\n- How does a newborn's sleep pattern change in the first few months?\n- What are some strategies to help newborns develop a healthy sleep routine?\n- Are there any common sleep issues that new parents should be aware of?",
+        "measured_faithfulness": "1.0",
+        "measured_relevancy": "1.0",
+        "f_inputs": [
+            [
+                1.0,
+                "The average total sleep duration for a newborn baby is around 14 to 17 hours per 24-hour period."
+            ],
+            [
+                1.0,
+                "The average total sleep duration for a newborn baby is around 14 to 17 hours per 24-hour period."
+            ],
+            [
+                1.0,
+                "The average total sleep duration for a newborn baby is around 14 to 17 hours per 24-hour period."
+            ],
+            [
+                1.0,
+                "ithfulness: 8/10\nThe response accurately mentions the average total sleep duration for a newborn baby, which is consistent with Context 1 (14 hours per 24-hour period). However, it also mentions a slightly broader range (14-17 hours) not explicitly stated in Context 1.\n"
+            ]
+        ],
+        "r_inputs": [
+            [
+                1.0,
+                "Newborn babies typically need a significant amount of sleep, ranging from 14 to 17 hours per day. This sleep is distributed throughout the day and night, with newborns usually sleeping in short stretches of 2 to 4 hours at a time. Their sleep cycle is not yet fully developed, so they do not have a clear day-night pattern. Understanding this sleep requirement can help new parents manage their expectations and establish healthy sleep habits for their newborn."
+            ],
+            [
+                0.0,
+                "Sleep Duration for Newborn Babies:\n\nNewborn babies typically need a significant amount of sleep, ranging from 14 to 17 hours per day. This sleep is distributed throughout the day and night, with newborns usually sleeping in short stretches of 2 to 4 hours at a time. Their sleep cycle is not yet fully developed, so they do not have a clear day-night pattern. Understanding this sleep requirement can help new parents manage their expectations and establish healthy sleep habits for their newborn.\n\nLearn More About:\n\nHow does a newborn's sleep pattern change in the first few months?\nWhat are some strategies to help newborns develop a healthy sleep routine?\nAre there any common sleep issues that new parents should be aware of?"
+            ],
+            [
+                1.0,
+                "Newborn babies typically need a significant amount of sleep, ranging from 14 to 17 hours per day. "
+            ],
+            [
+                1.0,
+                "elevance: 9/10\nThe response is highly relevant to the topic of newborn babies' sleep patterns, which is discussed in both Context 1 and Context 2. It provides additional information and context about newborn sleep patterns, making it a useful contribution to the topic."
+            ]
+        ],
+        "perceived_faithfulness": 1.0,
+        "perceived_relevancy": 0.0,
+        "f_rationales": [
+            "The average total sleep duration for a newborn baby is around 14 to 17 hours per 24-hour period."
+        ],
+        "r_rationales": [
+            "Newborn babies typically need a significant amount of sleep, ranging from 14 to 17 hours per day. This sleep is distributed throughout the day and night, with newborns usually sleeping in short stretches of 2 to 4 hours at a time. Their sleep cycle is not yet fully developed, so they do not have a clear day-night pattern. Understanding this sleep requirement can help new parents manage their expectations and establish healthy sleep habits for their newborn.",
+            "Sleep Duration for Newborn Babies:\n\nNewborn babies typically need a significant amount of sleep, ranging from 14 to 17 hours per day. This sleep is distributed throughout the day and night, with newborns usually sleeping in short stretches of 2 to 4 hours at a time. Their sleep cycle is not yet fully developed, so they do not have a clear day-night pattern. Understanding this sleep requirement can help new parents manage their expectations and establish healthy sleep habits for their newborn.\n\nLearn More About:\n\nHow does a newborn's sleep pattern change in the first few months?\nWhat are some strategies to help newborns develop a healthy sleep routine?\nAre there any common sleep issues that new parents should be aware of?"
+        ]
+    },
+    "022e4095-8e2f-48ee-92bb-55d9ceb48477": {
+        "query": "What is the average number of minutes children are awake at night in the Netherlands?",
+        "response": "The average number of minutes children in the Netherlands are awake at night is about 8 minutes in total per night.\n\n**Average Nighttime Awakenings for Children:**\n\nAccording to Dutch studies, children typically wake up for a total of about 8 minutes each night. This duration does not significantly vary with age. Understanding this pattern can help parents manage their expectations and address any concerns about their child's nighttime awakenings. If a child is awake for much longer than this average, it might be helpful to explore strategies to improve their sleep quality.\n\n**Learn More About:**\n\n- What are some common reasons for children waking up at night?\n- How can parents help their children sleep through the night more peacefully?\n- Are there any gentle techniques to guide a child back to sleep if they wake up at night?",
+        "measured_faithfulness": "1.0",
+        "measured_relevancy": "1.0",
+        "f_inputs": [
+            [
+                1.0,
+                "The average number of minutes children in the Netherlands are awake at night is about 8 minutes in total per night."
+            ],
+            [
+                1.0,
+                "The average number of minutes children in the Netherlands are awake at night is about 8 minutes in total per night."
+            ],
+            [
+                1.0,
+                "The average number of minutes children in the Netherlands are awake at night is about 8 minutes in total per night."
+            ],
+            [
+                1.0,
+                "aithfulness: 9/10\nThe response accurately mentions the average number of minutes children in the Netherlands are awake at night, which is consistent with Context 2 (8 minutes in total per night).\n"
+            ]
+        ],
+        "r_inputs": [
+            [
+                1.0,
+                "According to Dutch studies, children typically wake up for a total of about 8 minutes each night. This duration does not significantly vary with age. Understanding this pattern can help parents manage their expectations and address any concerns about their child's nighttime awakenings. If a child is awake for much longer than this average, it might be helpful to explore strategies to improve their sleep quality."
+            ],
+            [
+                0.0,
+                "Average Nighttime Awakenings for Children:\n\nAccording to Dutch studies, children typically wake up for a total of about 8 minutes each night. This duration does not significantly vary with age. Understanding this pattern can help parents manage their expectations and address any concerns about their child's nighttime awakenings. If a child is awake for much longer than this average, it might be helpful to explore strategies to improve their sleep quality.\n\nLearn More About:\n\nWhat are some common reasons for children waking up at night?\nHow can parents help their children sleep through the night more peacefully?\nAre there any gentle techniques to guide a child back to sleep if they wake up at night?"
+            ],
+            [
+                1.0,
+                "According to Dutch studies, children typically wake up for a total of about 8 minutes each night. "
+            ],
+            [
+                1.0,
+                "e: 9/10\nThe response is highly relevant to the topic of children's sleep patterns, which is discussed in both Context 1 and Context 2. It provides additional information and context about nighttime awakenings, making it a useful contribution to the topic."
+            ]
+        ],
+        "perceived_faithfulness": 1.0,
+        "perceived_relevancy": 0.0,
+        "f_rationales": [
+            "The average number of minutes children in the Netherlands are awake at night is about 8 minutes in total per night."
+        ],
+        "r_rationales": [
+            "According to Dutch studies, children typically wake up for a total of about 8 minutes each night. This duration does not significantly vary with age. Understanding this pattern can help parents manage their expectations and address any concerns about their child's nighttime awakenings. If a child is awake for much longer than this average, it might be helpful to explore strategies to improve their sleep quality.",
+            "Average Nighttime Awakenings for Children:\n\nAccording to Dutch studies, children typically wake up for a total of about 8 minutes each night. This duration does not significantly vary with age. Understanding this pattern can help parents manage their expectations and address any concerns about their child's nighttime awakenings. If a child is awake for much longer than this average, it might be helpful to explore strategies to improve their sleep quality.\n\nLearn More About:\n\nWhat are some common reasons for children waking up at night?\nHow can parents help their children sleep through the night more peacefully?\nAre there any gentle techniques to guide a child back to sleep if they wake up at night?"
+        ]
+    },
+    "4fd0f2cc-d873-43c5-8d3e-988fc22a24bf": {
+        "query": "What is the spectrum approach used to differentiate between sleep problems and sleep disorders in the context of the provided document?",
+        "response": "The spectrum approach is used to differentiate between sleep problems and sleep disorders by considering the severity, frequency, and duration of sleep issues rather than drawing a sharp line between the two.\n\n**Spectrum Approach to Sleep Problems and Disorders:**\n\nThe provided document discusses a spectrum approach to understand and differentiate sleep problems and sleep disorders. At one end of the spectrum is healthy, non-problematic sleep with normal daytime functioning. At the other end are sleep disorders. Sleep problems fall somewhere in between and may evolve into sleep disorders if they increase in severity, frequency, or duration. This approach helps healthcare professionals assess and address sleep issues more effectively, recognizing that not all sleep problems are diagnosable disorders but still require attention.\n\n**Learn More About:**\n\n- What are the most common sleep problems and disorders in children?\n- How can parents and healthcare providers work together to address sleep issues early?\n- Are there any preventive measures that can help keep sleep problems from becoming disorders?",
+        "measured_faithfulness": "1.0",
+        "measured_relevancy": "1.0",
+        "f_inputs": [
+            [
+                1.0,
+                "The spectrum approach is used to differentiate between sleep problems and sleep disorders by considering the severity, frequency, and duration of sleep issues rather than drawing a sharp line between the two."
+            ],
+            [
+                1.0,
+                "The spectrum approach is used to differentiate between sleep problems and sleep disorders by considering the severity, frequency, and duration of sleep issues rather than drawing a sharp line between the two."
+            ],
+            [
+                1.0,
+                "The spectrum approach is used to differentiate between sleep problems and sleep disorders by considering the severity, frequency, and duration of sleep issues rather than drawing a sharp line between the two."
+            ],
+            [
+                1.0,
+                "The spectrum approach is used to differentiate between sleep problems and sleep disorders by considering the severity, frequency, and duration of sleep issues rather than drawing a sharp line between the two."
+            ],
+            [
+                1.0,
+                "hfulness: 9/10\nThe response accurately describes the spectrum approach to differentiating between sleep problems and sleep disorders, which is consistent with Context 1.\n"
+            ]
+        ],
+        "r_inputs": [
+            [
+                1.0,
+                "The provided document discusses a spectrum approach to understand and differentiate sleep problems and sleep disorders. At one end of the spectrum is healthy, non-problematic sleep with normal daytime functioning. At the other end are sleep disorders. Sleep problems fall somewhere in between and may evolve into sleep disorders if they increase in severity, frequency, or duration. This approach helps healthcare professionals assess and address sleep issues more effectively, recognizing that not all sleep problems are diagnosable disorders but still require attention."
+            ],
+            [
+                1.0,
+                "he provided document discusses a spectrum approach to understand and differentiate sleep problems and sleep disorders. At one end of the spectrum is healthy, non-problematic sleep with normal daytime functioning. At the other end are sleep disorders. Sleep problems fall somewhere in between and may evolve into sleep disorders if they increase in severity, frequency, or duration."
+            ],
+            [
+                0.0,
+                "Spectrum Approach to Sleep Problems and Disorders:\n\nThe provided document discusses a spectrum approach to understand and differentiate sleep problems and sleep disorders. At one end of the spectrum is healthy, non-problematic sleep with normal daytime functioning. At the other end are sleep disorders. Sleep problems fall somewhere in between and may evolve into sleep disorders if they increase in severity, frequency, or duration. This approach helps healthcare professionals assess and address sleep issues more effectively, recognizing that not all sleep problems are diagnosable disorders but still require attention.\n\nLearn More About:\n\nWhat are the most common sleep problems and disorders in children?\nHow can parents and healthcare providers work together to address sleep issues early?\nAre there any preventive measures that can help keep sleep problems from becoming disorders?"
+            ],
+            [
+                1.0,
+                "The provided document discusses a spectrum approach to understand and differentiate sleep problems and sleep disorders. "
+            ],
+            [
+                1.0,
+                "Relevance: 9/10\nThe response is highly relevant to the topic of sleep problems and disorders in children, which is discussed in Context 1. It provides a clear summary of the spectrum approach and its implications for understanding and addressing sleep issues."
+            ]
+        ],
+        "perceived_faithfulness": 1.0,
+        "perceived_relevancy": 1.0,
+        "f_rationales": [
+            "The spectrum approach is used to differentiate between sleep problems and sleep disorders by considering the severity, frequency, and duration of sleep issues rather than drawing a sharp line between the two."
+        ],
+        "r_rationales": [
+            "The provided document discusses a spectrum approach to understand and differentiate sleep problems and sleep disorders. At one end of the spectrum is healthy, non-problematic sleep with normal daytime functioning. At the other end are sleep disorders. Sleep problems fall somewhere in between and may evolve into sleep disorders if they increase in severity, frequency, or duration. This approach helps healthcare professionals assess and address sleep issues more effectively, recognizing that not all sleep problems are diagnosable disorders but still require attention.",
+            "he provided document discusses a spectrum approach to understand and differentiate sleep problems and sleep disorders. At one end of the spectrum is healthy, non-problematic sleep with normal daytime functioning. At the other end are sleep disorders. Sleep problems fall somewhere in between and may evolve into sleep disorders if they increase in severity, frequency, or duration."
+        ]
+    },
+    "8ebfa7c1-0976-40c5-862c-c4359c3be5f9": {
+        "query": "What percentage of Dutch babies aged 6 months have parents who experience their child's sleep as a problem?",
+        "response": "Approximately 25% of Dutch parents experience their 6-month-old baby's sleep as a problem.\n\n**Parental Concerns About Baby's Sleep:**\n\nAccording to research, about 25% of parents in the Netherlands report that their 6-month-old baby's sleep is a source of concern or a problem. This highlights the importance of addressing sleep issues early on, as they can impact both the baby's well-being and the overall family dynamics. Understanding this prevalence can help healthcare providers offer timely support and guidance to families.\n\n**Learn More About:**\n\n- What are some common sleep issues that parents of 6-month-old babies face?\n- How can parents create a sleep-friendly environment for their babies?\n- Are there any effective strategies to help babies develop better sleep habits?",
+        "measured_faithfulness": "1.0",
+        "measured_relevancy": "1.0",
+        "f_inputs": [
+            [
+                0.0,
+                "The response mentions specific statistics and information about 6-month-old babies, but the context discusses sleep patterns in children aged 4-12 years.\n"
+            ],
+            [
+                1.0,
+                "Approximately 25% of Dutch parents experience their 6-month-old baby's sleep as a problem."
+            ],
+            [
+                1.0,
+                "Babies (0-6 months)\nThe life of a newborn baby is largely asleep. A newborn baby is sleeping\nA lot during the day and at night. On average 14 hours per 24 hours (see Table 1.). \u200b 5 Because a newborn baby\nOften needs "
+            ],
+            [
+                0.0,
+                "Approximately 25% of Dutch parents experience their 6-month-old baby's sleep as a problem"
+            ],
+            [
+                0.0,
+                "Approximately 25% of Dutch parents experience their 6-month-old baby's sleep as a problem."
+            ],
+            [
+                0.0,
+                "According to research, about 25% of parents in the Netherlands report that their 6-month-old "
+            ]
+        ],
+        "r_inputs": [
+            [
+                0.0,
+                "The query appears to be related to sleep patterns in children, but the response focuses on sleep concerns in 6-month-old babies, which is not directly related to the context"
+            ],
+            [
+                1.0,
+                "Approximately 25% of Dutch parents experience their 6-month-old baby's sleep as a problem."
+            ],
+            [
+                1.0,
+                "Babies (0-6 months)\nThe life of a newborn baby is largely asleep. A newborn baby is sleeping\nA lot during the day and at night. On average 14 hours per 24 hours (see Table 1.). \u200b 5 Because a newborn baby\nOften needs "
+            ],
+            [
+                0.0,
+                "Learn More About:\n\nWhat are some common sleep issues that parents of 6-month-old babies face?\nHow can parents create a sleep-friendly environment for their babies?\nAre there any effective strategies to help babies develop better sleep habits?"
+            ],
+            [
+                0.0,
+                "his highlights the importance of addressing sleep issues early on, as they can impact both the baby's well-being and the overall family dynamics. Understanding this prevalence can help healthcare providers offer timely support and guidance to families."
+            ],
+            [
+                0.0,
+                " This highlights the importance of addressing sleep issues early on, as they can impact both the baby's well-being and the overall family"
+            ]
+        ],
+        "perceived_faithfulness": 1.0,
+        "perceived_relevancy": 0.0,
+        "f_rationales": [
+            "Approximately 25% of Dutch parents experience their 6-month-old baby's sleep as a problem."
+        ],
+        "r_rationales": [
+            "his highlights the importance of addressing sleep issues early on, as they can impact both the baby's well-being and the overall family dynamics. Understanding this prevalence can help healthcare providers offer timely support and guidance to families.",
+            " This highlights the importance of addressing sleep issues early on, as they can impact both the baby's well-being and the overall family"
+        ]
+    },
+    "032ee4f4-e29c-445a-a559-801a4286c2e2": {
+        "query": "What is associated with sleep deprivation according to the documents?",
+        "response": "Sleep deprivation is associated with several negative outcomes according to the documents. These include:\n\n**Associations with Sleep Deprivation:**\n\n- **Poor Health Perception:** Sleep deprivation is linked to feeling unwell or experiencing poor overall health.\n- **Weight Gain:** Chronic lack of sleep can contribute to weight gain and obesity.\n- **Pain:** Sleep deprivation is associated with increased sensitivity to pain.\n- **Cardiovascular and Metabolic Risks:** It elevates the risk of cardiovascular and metabolic issues.\n- **Attention Problems:** Sleep deprivation can lead to difficulties in focusing and paying attention.\n- **Social Isolation:** It is associated with feelings of isolation and social withdrawal.\n- **Aggression and Violence:** Sleep deprivation can increase aggressive behavior and the risk of violence.\n- **Suicidal Thoughts:** Chronic sleep deprivation is linked to an increased risk of suicidal thoughts.\n- **Depression and Anxiety:** There is a reciprocal relationship where sleep deprivation can lead to depression and anxiety, and these mental health issues can further disrupt sleep.\n- **Substance Use:** Sleep deprivation is associated with an increased risk of substance use, including alcohol and drugs.\n\n**Learn More About:**\n\n- How can improving sleep help manage weight and overall health?\n- What are some strategies to cope with pain that also promote better sleep?\n- Are there any specific sleep habits that can reduce the risk of cardiovascular issues?",
+        "measured_faithfulness": "1.0",
+        "measured_relevancy": "1.0",
+        "f_inputs": [
+            [
+                1.0,
+                "Bij ongeveer 20% van alle baby\u2019s doen zich zogenaamde \u2018regulatieproblemen\u2019 (huil-, slaap- en/of\nvoedingsproblemen) voor. In een meta-analyse van 22 longitudinale onderzoeken, met in totaal 1935"
+            ],
+            [
+                0.0,
+                "Depression and Anxiety: There is a reciprocal relationship where sleep deprivation can lead to depression and anxiety, and these mental health issues can further disrupt sleep."
+            ],
+            [
+                1.0,
+                "can increase the risk of heart dieses"
+            ],
+            [
+                1.0,
+                "Sleep deprivation is associated with several negative outcomes according to the documents. These include:\n\nAssociations with Sleep Deprivation:\n\nPoor Health Perception: Sleep deprivation is linked to feeling unwell or experiencing poor overall health.\nWeight Gain: Chronic lack of sleep can contribute to weight gain and obesity.\nPain: Sleep deprivation is associated with increased sensitivity to pain.\nCardiovascular and Metabolic Risks: It elevates the risk of cardiovascular and metabolic issues.\nAttention Problems: Sleep deprivation can lead to difficulties in focusing and paying attention.\nSocial Isolation: It is associated with feelings of isolation and social withdrawal.\nAggression and Violence: Sleep deprivation can increase aggressive behavior "
+            ],
+            [
+                1.0,
+                "Sleep deprivation is associated with several negative outcomes according to the documents. These include:\n\nAssociations with Sleep Deprivation:\n\nPoor Health Perception: Sleep deprivation is linked to feeling unwell or experiencing poor overall health.\nWeight Gain: Chronic lack of sleep can contribute to weight gain and obesity.\nPain: Sleep deprivation is associated with increased sensitivity to pain.\nCardiovascular and Metabolic Risks: It elevates the risk of cardiovascular and metabolic issues.\nAttention Problems: Sleep deprivation can lead to difficulties in focusing and paying attention.\nSocial Isolation: It is associated with feelings of isolation and social withdrawal.\nAggression and Violence: Sleep deprivation can increase aggressive behavior and the risk of violence."
+            ],
+            [
+                1.0,
+                "Sleep deprivation is associated with several negative outcomes according to the documents. These"
+            ]
+        ],
+        "r_inputs": [
+            [
+                1.0,
+                "Sleep deprivation is associated with several negative outcomes according to the documents. These include:"
+            ],
+            [
+                0.0,
+                "Poor Health Perception: Sleep deprivation is linked to feeling unwell or experiencing poor overall health."
+            ],
+            [
+                1.0,
+                "can increase food intake"
+            ],
+            [
+                1.0,
+                "Sleep deprivation is associated with several negative outcomes according to the documents. These include:\n\nAssociations with Sleep Deprivation:\n\nPoor Health Perception: Sleep deprivation is linked to feeling unwell or experiencing poor overall health.\nWeight Gain: Chronic lack of sleep can contribute to weight gain and obesity.\nPain: Sleep deprivation is associated with increased sensitivity to pain.\nCardiovascular and Metabolic Risks: It elevates the risk of cardiovascular and metabolic issues.\nAttention Problems: Sleep deprivation can lead to difficulties in focusing and paying attention.\nSocial Isolation: It is associated with feelings of isolation and social withdrawal.\nAggression and Violence: Sleep deprivation can increase aggressive behavior "
+            ],
+            [
+                1.0,
+                "Sleep deprivation is associated with several negative outcomes according to the documents. These include:\n\nAssociations with Sleep Deprivation:\n\nPoor Health Perception: Sleep deprivation is linked to feeling unwell or experiencing poor overall health.\nWeight Gain: Chronic lack of sleep can contribute to weight gain and obesity.\nPain: Sleep deprivation is associated with increased sensitivity to pain.\nCardiovascular and Metabolic Risks: It elevates the risk of cardiovascular and metabolic issues.\nAttention Problems: Sleep deprivation can lead to difficulties in focusing and paying attention.\nSocial Isolation: It is associated with feelings of isolation and social withdrawal.\nAggression and Violence: Sleep deprivation can increase aggressive behavior and the risk of violence."
+            ],
+            [
+                1.0,
+                "Sleep deprivation is associated with several negative outcomes according to the documents. These"
+            ]
+        ],
+        "perceived_faithfulness": 1.0,
+        "perceived_relevancy": 1.0,
+        "f_rationales": [
+            "Sleep deprivation is associated with several negative outcomes according to the documents. These include:\n\nAssociations with Sleep Deprivation:\n\nPoor Health Perception: Sleep deprivation is linked to feeling unwell or experiencing poor overall health.\nWeight Gain: Chronic lack of sleep can contribute to weight gain and obesity.\nPain: Sleep deprivation is associated with increased sensitivity to pain.\nCardiovascular and Metabolic Risks: It elevates the risk of cardiovascular and metabolic issues.\nAttention Problems: Sleep deprivation can lead to difficulties in focusing and paying attention.\nSocial Isolation: It is associated with feelings of isolation and social withdrawal.\nAggression and Violence: Sleep deprivation can increase aggressive behavior ",
+            "Sleep deprivation is associated with several negative outcomes according to the documents. These include:\n\nAssociations with Sleep Deprivation:\n\nPoor Health Perception: Sleep deprivation is linked to feeling unwell or experiencing poor overall health.\nWeight Gain: Chronic lack of sleep can contribute to weight gain and obesity.\nPain: Sleep deprivation is associated with increased sensitivity to pain.\nCardiovascular and Metabolic Risks: It elevates the risk of cardiovascular and metabolic issues.\nAttention Problems: Sleep deprivation can lead to difficulties in focusing and paying attention.\nSocial Isolation: It is associated with feelings of isolation and social withdrawal.\nAggression and Violence: Sleep deprivation can increase aggressive behavior and the risk of violence."
+        ],
+        "r_rationales": [
+            "Sleep deprivation is associated with several negative outcomes according to the documents. These include:\n\nAssociations with Sleep Deprivation:\n\nPoor Health Perception: Sleep deprivation is linked to feeling unwell or experiencing poor overall health.\nWeight Gain: Chronic lack of sleep can contribute to weight gain and obesity.\nPain: Sleep deprivation is associated with increased sensitivity to pain.\nCardiovascular and Metabolic Risks: It elevates the risk of cardiovascular and metabolic issues.\nAttention Problems: Sleep deprivation can lead to difficulties in focusing and paying attention.\nSocial Isolation: It is associated with feelings of isolation and social withdrawal.\nAggression and Violence: Sleep deprivation can increase aggressive behavior ",
+            "Sleep deprivation is associated with several negative outcomes according to the documents. These include:\n\nAssociations with Sleep Deprivation:\n\nPoor Health Perception: Sleep deprivation is linked to feeling unwell or experiencing poor overall health.\nWeight Gain: Chronic lack of sleep can contribute to weight gain and obesity.\nPain: Sleep deprivation is associated with increased sensitivity to pain.\nCardiovascular and Metabolic Risks: It elevates the risk of cardiovascular and metabolic issues.\nAttention Problems: Sleep deprivation can lead to difficulties in focusing and paying attention.\nSocial Isolation: It is associated with feelings of isolation and social withdrawal.\nAggression and Violence: Sleep deprivation can increase aggressive behavior and the risk of violence."
+        ]
+    },
+    "833e5b11-c433-4c38-a6cb-91676b4f2505": {
+        "query": "According to the text, what is a potential consequence of sleep problems in children for their parents?",
+        "response": "A potential consequence of sleep problems in children for their parents is an increased risk of child maltreatment.\n\n**Potential Consequence of Child Sleep Problems for Parents:**\n\nThe text highlights that sleep problems in children can lead to stress and fatigue in parents, which in turn can increase the risk of child maltreatment. This underscores the importance of addressing and managing children's sleep issues to support the well-being and safety of the entire family.\n\n**Learn More About:**\n\n- What are some signs that parental stress is becoming overwhelming?\n- How can parents seek support to manage their own stress and fatigue?\n- Are there any strategies to improve both the child's sleep and the overall family dynamics?",
+        "measured_faithfulness": "1.0",
+        "measured_relevancy": "1.0",
+        "f_inputs": [
+            [
+                1.0,
+                "increase risk for anxious"
+            ],
+            [
+                0.0,
+                "This underscores the importance of addressing and managing children's sleep issues to support the well-being and safety of the entire family"
+            ],
+            [
+                0.0,
+                " potential consequence of sleep problems in children for their parents is an increased risk of child maltreatment.his underscores the importance of addressing and managing children's sleep issues to support the well-being and safety of the entire family.\n\n"
+            ],
+            [
+                0.0,
+                "A potential consequence of sleep problems in children for their parents is an increased risk of child maltreatment."
+            ]
+        ],
+        "r_inputs": [
+            [
+                0.0,
+                "significant stress"
+            ],
+            [
+                1.0,
+                " potential consequence of sleep problems in children for their parents is an increased risk of child maltreatment."
+            ],
+            [
+                1.0,
+                "he text highlights that sleep problems in children can lead to stress and fatigue in parents, which in turn can increase the risk of child maltreatment. This underscores the importance of addressing and managing children's sleep issues to support the well-being and safety of the entire family."
+            ],
+            [
+                1.0,
+                "This underscores the importance of addressing and managing children's sleep issues to support the well-being and safety of the entire family."
+            ]
+        ],
+        "perceived_faithfulness": 0.0,
+        "perceived_relevancy": 1.0,
+        "f_rationales": [
+            "This underscores the importance of addressing and managing children's sleep issues to support the well-being and safety of the entire family",
+            " potential consequence of sleep problems in children for their parents is an increased risk of child maltreatment.his underscores the importance of addressing and managing children's sleep issues to support the well-being and safety of the entire family.\n\n"
+        ],
+        "r_rationales": [
+            "he text highlights that sleep problems in children can lead to stress and fatigue in parents, which in turn can increase the risk of child maltreatment. This underscores the importance of addressing and managing children's sleep issues to support the well-being and safety of the entire family.",
+            "This underscores the importance of addressing and managing children's sleep issues to support the well-being and safety of the entire family."
+        ]
+    },
+    "f2576844-4097-4568-9e90-5834527e956d": {
+        "query": "What is the prevalence range of sleep problems in adolescents aged 12-18 years based on international research?",
+        "response": "The prevalence range of sleep problems in adolescents aged 12-18 years is approximately 4-40% based on international research.\n\n**Prevalence of Sleep Problems in Adolescents:**\n\nInternational studies indicate that the prevalence of sleep problems among adolescents aged 12-18 years varies widely, ranging from 4% to 40%. This broad range highlights the significance of sleep issues in this age group and the need for targeted interventions. Factors contributing to this variability include cultural differences, lifestyle habits, and the criteria used to define sleep problems. Addressing sleep issues in adolescents is crucial for their overall health and well-being.\n\n**Learn More About:**\n\n- What are the most common sleep problems experienced by adolescents?\n- How can parents and healthcare providers support better sleep habits in teenagers?\n- Are there any specific interventions proven effective for adolescent sleep problems?",
+        "measured_faithfulness": "1.0",
+        "measured_relevancy": "1.0",
+        "f_inputs": [
+            [
+                1.0,
+                "The prevalence range of sleep problems in adolescents aged 12-18 years is approximately 4-40% based on international research."
+            ],
+            [
+                0.0,
+                " The response mentions specific statistics and information about sleep problems in adolescents, but the context appears to be unrelated, discussing characteristics in the postpartum period.\n"
+            ],
+            [
+                0.0,
+                "The prevalence range of sleep problems in adolescents aged 12-18 years is approximately 4-40% based on international research."
+            ]
+        ],
+        "r_inputs": [
+            [
+                1.0,
+                "The prevalence range of sleep problems in adolescents aged 12-18 years is approximately 4-40% based on international research."
+            ],
+            [
+                0.0,
+                " it seems to be related to sleep problems in adolescents. However, the context is unrelated, making the response irrelevant."
+            ],
+            [
+                0.0,
+                "nternational studies indicate that the prevalence of sleep problems among adolescents aged 12-18 years varies widely, ranging from 4% to 40%. This broad range highlights the significance of sleep issues in this age group "
+            ]
+        ],
+        "perceived_faithfulness": 1.0,
+        "perceived_relevancy": 0.0,
+        "f_rationales": [
+            "The prevalence range of sleep problems in adolescents aged 12-18 years is approximately 4-40% based on international research."
+        ],
+        "r_rationales": [
+            "The prevalence range of sleep problems in adolescents aged 12-18 years is approximately 4-40% based on international research.",
+            " it seems to be related to sleep problems in adolescents. However, the context is unrelated, making the response irrelevant."
+        ]
+    },
+    "f05d3eba-36d3-40ae-9fe3-b44d48cb1a20": {
+        "query": "Which sleep-related problem is most frequently mentioned by parents of children aged 2-14 years?",
+        "response": "The most frequently mentioned sleep-related problem by parents of children aged 2-14 years is daytime sleepiness.\n\n**Daytime Sleepiness in Children:**\n\nAccording to the provided document, daytime sleepiness is the most commonly reported sleep-related problem among children aged 2-14 years. This issue can significantly impact a child's daily activities, school performance, and overall quality of life. Recognizing daytime sleepiness as a prevalent concern can help parents and healthcare providers address underlying sleep issues more effectively.\n\n**Learn More About:**\n\n- What are the common causes of daytime sleepiness in children?\n- How can parents help their children get better quality sleep at night?\n- Are there any lifestyle changes that can improve a child's daytime alertness?",
+        "measured_faithfulness": "1.0",
+        "measured_relevancy": "1.0",
+        "f_inputs": [
+            [
+                0.0,
+                "The response mentions specific information about daytime sleepiness, but the context discusses various sleep-related issues, including sleep problems, sleep disorders, and sleep associations.\n"
+            ],
+            [
+                1.0,
+                "The most frequently mentioned sleep-related problem by parents of children aged 2-14 years is daytime sleepiness."
+            ],
+            [
+                0.0,
+                " Recognizing daytime sleepiness as a prevalent concern can help parents and healthcare providers address underlying sleep issues more effectively."
+            ],
+            [
+                0.0,
+                " This issue can significantly impact a child's daily activities, school performance, and overall quality of life. Recognizing daytime sleepiness as a prevalent concern can help parents and healthcare providers address underlying sleep issues "
+            ]
+        ],
+        "r_inputs": [
+            [
+                0.0,
+                "The query appears to be related to sleep issues, but the response focuses on daytime sleepiness, which is not directly related to the context. The context provides a broader discussion of sleep problems and disorders, whereas the response narrows down to a specific issue."
+            ],
+            [
+                1.0,
+                "The most frequently mentioned sleep-related problem by parents of children aged 2-14 years is daytime sleepiness."
+            ],
+            [
+                1.0,
+                ", daytime sleepiness is the most commonly reported sleep-related problem among children aged 2-14 years"
+            ],
+            [
+                0.0,
+                " This issue can significantly impact a child's daily activities, school performance, and overall quality of life. Recognizing daytime sleepiness as a prevalent concern can help parents and healthcare providers address underlying sleep issues "
+            ]
+        ],
+        "perceived_faithfulness": 0.0,
+        "perceived_relevancy": 1.0,
+        "f_rationales": [
+            " Recognizing daytime sleepiness as a prevalent concern can help parents and healthcare providers address underlying sleep issues more effectively.",
+            " This issue can significantly impact a child's daily activities, school performance, and overall quality of life. Recognizing daytime sleepiness as a prevalent concern can help parents and healthcare providers address underlying sleep issues "
+        ],
+        "r_rationales": [
+            "The most frequently mentioned sleep-related problem by parents of children aged 2-14 years is daytime sleepiness.",
+            ", daytime sleepiness is the most commonly reported sleep-related problem among children aged 2-14 years"
+        ]
+    },
+    "6c37fb97-a400-4dbf-9024-faeac19deb38": {
+        "query": "What percentage of the total number of general practitioner consultations for girls aged 15-17 years is related to sleep problems?",
+        "response": "Approximately 0.4% of the total number of general practitioner (GP) consultations for girls aged 15-17 years is related to sleep problems.\n\n**GP Consultations for Sleep Problems in Adolescent Girls:**\n\nAccording to the provided document, about 0.4% of GP consultations for girls aged 15-17 years in the Netherlands are focused on sleep problems. This percentage, though relatively small, indicates that sleep issues are a concern for some adolescent girls and their families. Recognizing this can help healthcare providers be more attentive to sleep-related complaints during consultations and offer appropriate support.\n\n**Learn More About:**\n\n- What are the most common sleep problems experienced by adolescent girls?\n- How can adolescents and their parents address sleep issues effectively?\n- Are there any preventive measures that can help improve sleep quality in teenagers?",
+        "measured_faithfulness": "1.0",
+        "measured_relevancy": "1.0",
+        "f_inputs": [
+            [
+                1.0,
+                "According to the provided document, about 0.4% of GP consultations for girls aged 15-17 years in the Netherlands are focused on sleep problems"
+            ],
+            [
+                0.0,
+                "The response mentions specific statistics and information about GP consultations for sleep problems in adolescent girls, but the context appears to be unrelated, discussing the relationship between sleep duration, temperament, and development.\n"
+            ]
+        ],
+        "r_inputs": [
+            [
+                1.0,
+                "According to the provided document, about 0.4% of GP consultations for girls aged 15-17 years in the Netherlands are focused on sleep problems"
+            ],
+            [
+                0.0,
+                "The query is not visible, but based on the response, it seems to be related to sleep problems in adolescent girls. However, the context is unrelated, making the response irrelevant."
+            ]
+        ],
+        "perceived_faithfulness": 0.0,
+        "perceived_relevancy": 0.0,
+        "f_rationales": [
+            "According to the provided document, about 0.4% of GP consultations for girls aged 15-17 years in the Netherlands are focused on sleep problems",
+            "The response mentions specific statistics and information about GP consultations for sleep problems in adolescent girls, but the context appears to be unrelated, discussing the relationship between sleep duration, temperament, and development.\n"
+        ],
+        "r_rationales": [
+            "According to the provided document, about 0.4% of GP consultations for girls aged 15-17 years in the Netherlands are focused on sleep problems",
+            "The query is not visible, but based on the response, it seems to be related to sleep problems in adolescent girls. However, the context is unrelated, making the response irrelevant."
+        ]
+    },
+    "7cc404ab-2f8b-4e45-b5ba-0a93bb92fcb5": {
+        "query": "What sleep-related topic was studied by van Litsenburg et al. (2010)?",
+        "response": "The sleep-related topic studied by van Litsenburg et al. (2010) was sleep habits and sleep disturbances in Dutch children.\n\n**Sleep Habits and Disturbances in Dutch Children:**\n\nThe study by van Litsenburg et al. (2010) focused on investigating the sleep habits and sleep disturbances experienced by Dutch children. This research is crucial for understanding the prevalence and types of sleep issues affecting children in the Netherlands, which can help in developing targeted interventions and support for better sleep health.\n\n**Learn More About:**\n\n- What are the most common sleep disturbances reported in Dutch children?\n- How do sleep habits vary among different age groups of children?\n- Are there any cultural or environmental factors that influence sleep patterns in Dutch children?",
+        "measured_faithfulness": "1.0",
+        "measured_relevancy": "1.0",
+        "f_inputs": [
+            [
+                1.0,
+                "sleeping is not good"
+            ],
+            [
+                1.0,
+                " 1. Risico- en beschermende\nfactoren, 2. Samenhangende stoornissen en ontwikkelingsproblemen, 3. Geneesmiddelen, 4. Signaleren, 5. Preventie\nen interventie. De literatuursearch richtte zich in eerste instantie op meta-analyses en systematische reviews uit de\nperiode 2005 tot en met 2014, omdat de literatuursearch zonder deze limitatie een onwerkbare hoeveelheid\nartikelen opleverde. Dit resulteerde in een lijst met 446 geselecteerde referenties.\nHieruit volgde een lijst met abstracts. De abstracts zijn door twee personen beoordeeld op relevantie voor het\nbeantwoorden van de uitgangsvragen. Dit resulteerde in een lijst van 120 artikelen waarvan de volledige tekst werd\nopgevraagd en doorgenomen. Na het doorlezen van de volledige tekst bleken 95 artikelen relevant."
+            ],
+            [
+                1.0,
+                "The sleep-related topic studied by van Litsenburg et al. (2010) was sleep habits and sleep disturbances in Dutch children."
+            ],
+            [
+                0.0,
+                "e sleep-related topic studied by van Litsenburg et al. (2010) was sleep habits and sleep disturbances in Dutch children."
+            ],
+            [
+                0.0,
+                "e sleep-related topic studied by van Litsenburg et al. (2010) was sleep habits and sleep disturbances in Dutch children.\n\nSleep Habits and Disturbances in Dutch Children:"
+            ]
+        ],
+        "r_inputs": [
+            [
+                0.0,
+                "can cause trauma"
+            ],
+            [
+                0.0,
+                "The sleep-related topic studied by van Litsenburg et al. (2010) was sleep habits and sleep disturbances in Dutch children."
+            ],
+            [
+                1.0,
+                " This research is crucial for understanding the prevalence and types of sleep issues affecting children in the Netherlands, which can help in developing targeted interventions and support for better sleep health."
+            ],
+            [
+                1.0,
+                "e sleep-related topic studied by van Litsenburg et al. (2010) was sleep habits and sleep disturbances in Dutch children."
+            ],
+            [
+                1.0,
+                "e sleep-related topic studied by van Litsenburg et al. (2010) was sleep habits and sleep disturbances in Dutch children.\n\nSleep Habits and Disturbances in Dutch Children:"
+            ]
+        ],
+        "perceived_faithfulness": 0.0,
+        "perceived_relevancy": 0.0,
+        "f_rationales": [
+            "The sleep-related topic studied by van Litsenburg et al. (2010) was sleep habits and sleep disturbances in Dutch children.",
+            "e sleep-related topic studied by van Litsenburg et al. (2010) was sleep habits and sleep disturbances in Dutch children."
+        ],
+        "r_rationales": [
+            "The sleep-related topic studied by van Litsenburg et al. (2010) was sleep habits and sleep disturbances in Dutch children.",
+            "e sleep-related topic studied by van Litsenburg et al. (2010) was sleep habits and sleep disturbances in Dutch children."
+        ]
+    },
+    "9f362052-b4a6-40f1-bb6d-1202869d6b45": {
+        "query": "Who are the authors of the \"JGZ richtlijn Gezonde slaap en slaapproblemen\"?",
+        "response": "The authors of the \"JGZ richtlijn Gezonde slaap en slaapproblemen\" are Eline Vlasblom, Bregje van Sleuwen, Monique L\u2019Hoir, and Maaike Beltman, all from TNO.\n\n**Authors of the Guideline:**\n\nThe guideline \"JGZ richtlijn Gezonde slaap en slaapproblemen\" was authored by a team from TNO, which includes Eline Vlasblom, Bregje van Sleuwen, Monique L\u2019Hoir, and Maaike Beltman. These authors are experts in the field of sleep health and have contributed to the development of this guideline to address sleep problems in youth healthcare.\n\n**Learn More About:**\n\n- What are the key recommendations in the \"JGZ richtlijn Gezonde slaap en slaapproblemen\" for improving sleep health?\n- How can parents create a healthy sleep environment for their children according to the guideline?\n- What are some common misconceptions about sleep that the guideline addresses?",
+        "measured_faithfulness": "1.0",
+        "measured_relevancy": "1.0",
+        "f_inputs": [
+            [
+                1.0,
+                "The guideline \"JGZ richtlijn Gezonde slaap en slaapproblemen\" was authored by a team from TNO, which includes Eline Vlasblom, Bregje van Sleuwen, Monique L\u2019Hoir, and Maaike Beltman."
+            ],
+            [
+                1.0,
+                "The authors of the \"JGZ richtlijn Gezonde slaap en slaapproblemen\" are Eline Vlasblom, Bregje van Sleuwen, Monique L\u2019Hoir, and Maaike Beltman, all from TNO."
+            ],
+            [
+                1.0,
+                "Auteurs: Eline Vlasblom (TNO), Bregje van Sleuwen (TNO), Monique L\u2019Hoir (TNO) en Maaike Beltman (TNO)"
+            ]
+        ],
+        "r_inputs": [
+            [
+                1.0,
+                "These authors are experts in the field of sleep health and have contributed to the development of this guideline to address sleep problems in youth healthcare."
+            ],
+            [
+                1.0,
+                "The guideline \"JGZ richtlijn Gezonde slaap en slaapproblemen\" was authored by a team from TNO, which includes Eline Vlasblom, Bregje van Sleuwen, Monique L\u2019Hoir, and Maaike Beltman. These authors are experts in the field of sleep health and have contributed to the development of this guideline to address sleep problems in youth healthcare."
+            ],
+            [
+                1.0,
+                "The authors of the \"JGZ richtlijn Gezonde slaap en slaapproblemen\" are Eline Vlasblom, Bregje van Sleuwen, Monique L\u2019Hoir, and Maaike Beltman, "
+            ]
+        ],
+        "perceived_faithfulness": 1.0,
+        "perceived_relevancy": 1.0,
+        "f_rationales": [
+            "The guideline \"JGZ richtlijn Gezonde slaap en slaapproblemen\" was authored by a team from TNO, which includes Eline Vlasblom, Bregje van Sleuwen, Monique L\u2019Hoir, and Maaike Beltman.",
+            "The authors of the \"JGZ richtlijn Gezonde slaap en slaapproblemen\" are Eline Vlasblom, Bregje van Sleuwen, Monique L\u2019Hoir, and Maaike Beltman, all from TNO."
+        ],
+        "r_rationales": [
+            "These authors are experts in the field of sleep health and have contributed to the development of this guideline to address sleep problems in youth healthcare.",
+            "The guideline \"JGZ richtlijn Gezonde slaap en slaapproblemen\" was authored by a team from TNO, which includes Eline Vlasblom, Bregje van Sleuwen, Monique L\u2019Hoir, and Maaike Beltman. These authors are experts in the field of sleep health and have contributed to the development of this guideline to address sleep problems in youth healthcare."
+        ]
+    },
+    "e44b9a9b-36e5-4a1b-acce-78207d88729f": {
+        "query": "According to the meta-analysis of 22 longitudinal studies, what is most likely to increase the risk of behavioral problems in later childhood?",
+        "response": "According to the meta-analysis of 22 longitudinal studies, sleep problems in early childhood are most likely to increase the risk of behavioral problems in later childhood.\n\n**Sleep Problems and Behavioral Issues:**\n\nThe meta-analysis reveals that children who experience sleep problems during their early years have a higher risk of developing behavioral problems later in childhood. This association underscores the importance of addressing sleep issues early on to support a child's overall development and well-being. Early intervention can help prevent the escalation of behavioral issues and promote better long-term outcomes.\n\n**Learn More About:**\n\n- What are some common early childhood sleep problems that parents should be aware of?\n- How can parents and healthcare providers work together to address sleep issues in young children?\n- Are there any specific strategies to improve sleep habits in early childhood?",
+        "measured_faithfulness": "1.0",
+        "measured_relevancy": "1.0",
+        "f_inputs": [
+            [
+                1.0,
+                "According to the meta-analysis of 22 longitudinal studies, sleep problems in early childhood are most likely to increase the risk of behavioral problems in later childhood.\n\n"
+            ],
+            [
+                0.0,
+                "The response mentions specific information about a meta-analysis and the relationship between sleep problems and behavioral issues, but the context appears to be unrelated, discussing a systematic review of sleep in pediatric pain.\n"
+            ]
+        ],
+        "r_inputs": [
+            [
+                1.0,
+                "According to the meta-analysis of 22 longitudinal studies, sleep problems in early childhood are most likely to increase the risk of behavioral problems in later childhood.\n\n"
+            ],
+            [
+                0.0,
+                " The query is not visible, but based on the response, it seems to be related to sleep problems in early childhood. However, the context is unrelated making the response irrelevant "
+            ]
+        ],
+        "perceived_faithfulness": 0.0,
+        "perceived_relevancy": 0.0,
+        "f_rationales": [
+            "According to the meta-analysis of 22 longitudinal studies, sleep problems in early childhood are most likely to increase the risk of behavioral problems in later childhood.\n\n",
+            "The response mentions specific information about a meta-analysis and the relationship between sleep problems and behavioral issues, but the context appears to be unrelated, discussing a systematic review of sleep in pediatric pain.\n"
+        ],
+        "r_rationales": [
+            "According to the meta-analysis of 22 longitudinal studies, sleep problems in early childhood are most likely to increase the risk of behavioral problems in later childhood.\n\n",
+            " The query is not visible, but based on the response, it seems to be related to sleep problems in early childhood. However, the context is unrelated making the response irrelevant "
+        ]
+    },
+    "d25d1df5-d939-429d-a1ba-539b20a1f066": {
+        "query": "According to the study by Koulouglioti et al. (2008), what is associated with inadequate sleep in young children?",
+        "response": "According to the study by Koulouglioti et al. (2008), inadequate sleep in young children is associated with unintentional injuries.\n\n**Inadequate Sleep and Unintentional Injuries:**\n\nThe study found that young children who do not get enough sleep are at a higher risk of experiencing unintentional injuries. This association highlights the importance of ensuring that young children get adequate sleep to promote their safety and overall well-being.\n\n**Learn More About:**\n\n- What are some common unintentional injuries in young children that may be linked to sleep deprivation?\n- How can parents create a safe and sleep-friendly environment for their young children?\n- Are there any specific sleep recommendations to reduce the risk of injuries in young children?",
+        "measured_faithfulness": "1.0",
+        "measured_relevancy": "1.0",
+        "f_inputs": [
+            [
+                1.0,
+                "they should not sleep a lot"
+            ],
+            [
+                0.0,
+                "e study found that young children who do not get enough sleep are at a higher risk of experiencing unintentional injuries. This association highlights the importance of ensuring that young children get adequate sleep to promote their safety and overall well-being."
+            ],
+            [
+                1.0,
+                "According to the study by Koulouglioti et al. (2008), inadequate sleep in young children is associated with unintentional injuries."
+            ],
+            [
+                1.0,
+                "According to the study by Koulouglioti et al. (2008), inadequate sleep in young children is associated with unintentional injuries.\n\nInadequate Sleep and Unintentional Injuries:"
+            ]
+        ],
+        "r_inputs": [
+            [
+                0.0,
+                "they must wake up early"
+            ],
+            [
+                1.0,
+                "According to the study by Koulouglioti et al. (2008), inadequate sleep in young children is associated with unintentional injuries."
+            ],
+            [
+                0.0,
+                "The study found that young children who do not get enough sleep are at a higher risk of experiencing unintentional injuries"
+            ],
+            [
+                1.0,
+                "According to the study by Koulouglioti et al. (2008), inadequate sleep in young children is associated with unintentional injuries.\n\nInadequate Sleep and Unintentional Injuries:"
+            ]
+        ],
+        "perceived_faithfulness": 1.0,
+        "perceived_relevancy": 1.0,
+        "f_rationales": [
+            "According to the study by Koulouglioti et al. (2008), inadequate sleep in young children is associated with unintentional injuries.",
+            "According to the study by Koulouglioti et al. (2008), inadequate sleep in young children is associated with unintentional injuries.\n\nInadequate Sleep and Unintentional Injuries:"
+        ],
+        "r_rationales": [
+            "According to the study by Koulouglioti et al. (2008), inadequate sleep in young children is associated with unintentional injuries.",
+            "According to the study by Koulouglioti et al. (2008), inadequate sleep in young children is associated with unintentional injuries.\n\nInadequate Sleep and Unintentional Injuries:"
+        ]
+    },
+    "f1efdf86-22ab-45e5-8f85-3123e2368611": {
+        "query": "According to the study by Rutters et al. (2010), what sleep=issue is associated with body-weight development during puberty?",
+        "response": "According to the study by Rutters et al. (2010), short sleep duration is associated with body-weight development during puberty.\n\n**Short Sleep Duration and Body-Weight Development:**\n\nThe study found that adolescents who have short sleep durations are more likely to experience changes in body-weight development during puberty. This association suggests that adequate sleep is crucial for maintaining a healthy weight and overall physical development during this critical period.\n\n**Learn More About:**\n\n- How does sleep duration affect hormones that regulate appetite and metabolism?\n- What are some strategies to promote better sleep habits in adolescents?\n- Are there any specific sleep recommendations for supporting healthy weight management during puberty?",
+        "measured_faithfulness": "1.0",
+        "measured_relevancy": "1.0",
+        "f_inputs": [
+            [
+                1.0,
+                "eating less"
+            ],
+            [
+                1.0,
+                "According to the study by Rutters et al. (2010), short sleep duration is associated with body-weight development during puberty."
+            ],
+            [
+                1.0,
+                "The study found that adolescents who have short sleep durations are more likely to experience changes in body-weight development during puberty"
+            ],
+            [
+                0.0,
+                "According to the study by Rutters et al. (2010), short sleep duration is associated with body-weight development during puberty."
+            ]
+        ],
+        "r_inputs": [
+            [
+                1.0,
+                "gym"
+            ],
+            [
+                1.0,
+                "The study found that adolescents who have short sleep durations are more likely to experience changes in body-weight development during puberty. This association suggests that adequate sleep is crucial for maintaining a healthy weight and overall physical development during this critical period."
+            ],
+            [
+                1.0,
+                "This association suggests that adequate sleep is crucial for maintaining a healthy weight and overall physical development during this critical period."
+            ],
+            [
+                0.0,
+                "According to the study by Rutters et al. (2010), short sleep duration is associated with body-weight development during puberty."
+            ]
+        ],
+        "perceived_faithfulness": 1.0,
+        "perceived_relevancy": 1.0,
+        "f_rationales": [
+            "According to the study by Rutters et al. (2010), short sleep duration is associated with body-weight development during puberty."
+        ],
+        "r_rationales": [
+            "The study found that adolescents who have short sleep durations are more likely to experience changes in body-weight development during puberty. This association suggests that adequate sleep is crucial for maintaining a healthy weight and overall physical development during this critical period.",
+            "This association suggests that adequate sleep is crucial for maintaining a healthy weight and overall physical development during this critical period."
+        ]
+    },
+    "96e9c8a6-2c8d-44a4-928e-c61b9fa68f88": {
+        "query": "What is the function of the kidneys?",
+        "response": "The kidneys filter waste products and excess fluids from the blood, maintain electrolyte balance, regulate blood pressure, and remove toxins from the body.",
+        "measured_faithfulness": "1.0",
+        "measured_relevancy": "1.0",
+        "f_inputs": [
+            [
+                1.0,
+                " The response accurately combines information from both contexts, rephrasing the functions of the kidneys without adding or removing information.\n"
+            ],
+            [
+                1.0,
+                "The kidneys filter waste products and excess fluids from the blood, maintain electrolyte balance, regulate blood pressure, and remove toxins from the body."
+            ],
+            [
+                1.0,
+                "The kidneys filter waste products"
+            ],
+            [
+                1.0,
+                "The kidneys filter waste products and excess fluids from the blood, maintain electrolyte balance, regulate blood pressure, and remove toxins from the body."
+            ],
+            [
+                1.0,
+                "The kidneys are vital organs responsible for filtering waste products and excess fluids from the blood, which are then excreted as urine"
+            ],
+            [
+                1.0,
+                "filtering blood"
+            ],
+            [
+                1.0,
+                "The kidneys are vital organs responsible for filtering waste products and excess fluids from the blood, which are then excreted as urine. They also play a crucial role in maintaining electrolyte balance and blood pressure."
+            ],
+            [
+                1.0,
+                "The kidneys filter waste products and excess fluids from the blood, maintain electrolyte balance"
+            ],
+            [
+                1.0,
+                "The kidneys filter waste products and excess fluids from the blood, maintain electrolyte balance, regulate blood pressure, and remove toxins from the body."
+            ],
+            [
+                1.0,
+                "Context 2:\n\nKidneys serve several essential functions, including removing toxins from the bloodstream, regulating fluid levels in the body, maintaining electrolyte balance, and contributing to the regulation of blood pressure through hormone release."
+            ],
+            [
+                1.0,
+                "The kidneys filter waste products and excess fluids from the blood"
+            ],
+            [
+                1.0,
+                "\nFaithfulness: 9/10\nThe response accurately combines information from both Context 1 and Context 2, summarizing the key functions of the kidneys.\n"
+            ],
+            [
+                1.0,
+                "he kidneys filter waste products and excess fluids from the blood, maintain electrolyte balance, regulate blood pressure, and remove toxins from the body."
+            ],
+            [
+                1.0,
+                "The kidneys filter waste products and excess fluids from the blood, maintain electrolyte balance, regulate blood pressure, and remove toxins from the body."
+            ],
+            [
+                0.0,
+                " play a crucial role in maintaining electrolyte balance and blood pressure."
+            ]
+        ],
+        "r_inputs": [
+            [
+                1.0,
+                "The response directly answers the query, providing a concise summary of the kidneys' functions."
+            ],
+            [
+                1.0,
+                "The kidneys filter waste products and excess fluids from the blood, maintain electrolyte balance, regulate blood pressure, and remove toxins from the body."
+            ],
+            [
+                1.0,
+                "maintain electrolyte balance,"
+            ],
+            [
+                1.0,
+                "The kidneys filter waste products and excess fluids from the blood, maintain electrolyte balance, regulate blood pressure, and remove toxins from the body."
+            ],
+            [
+                0.0,
+                "hey also play a crucial role in maintaining electrolyte balance and blood pressure."
+            ],
+            [
+                1.0,
+                "producing urine"
+            ],
+            [
+                1.0,
+                "The kidneys filter waste products and excess fluids from the blood, maintain electrolyte balance, regulate blood pressure, and remove toxins from the body."
+            ],
+            [
+                1.0,
+                "regulate blood pressure, and remove toxins from the body."
+            ],
+            [
+                1.0,
+                "The kidneys filter waste products and excess fluids from the blood, maintain electrolyte balance, regulate blood pressure, and remove toxins from the body."
+            ],
+            [
+                1.0,
+                "Context 2:\n\nKidneys serve several essential functions, including removing toxins from the bloodstream, regulating fluid levels in the body, maintaining electrolyte balance, and contributing to the regulation of blood pressure through hormone release."
+            ],
+            [
+                1.0,
+                "maintain electrolyte balance, regulate blood pressure, and remove toxins from the body."
+            ],
+            [
+                1.0,
+                "Relevance: 10/10\nThe response is highly relevant to the topic of kidney function, effectively synthesizing information from both contexts to provide a comprehensive overview."
+            ],
+            [
+                1.0,
+                "he kidneys filter waste products and excess fluids from the blood, maintain electrolyte balance, regulate blood pressure, and remove toxins from the body."
+            ],
+            [
+                1.0,
+                "Context 1:\nThe kidneys are vital organs responsible for filtering waste products and excess fluids from the blood, which are then excreted as urine. They also play a crucial role in maintaining electrolyte balance and blood pressure.\n\nContext 2:\nKidneys serve several essential functions, including removing toxins from the bloodstream, regulating fluid levels in the body, maintaining electrolyte balance, and contributing to the regulation of blood pressure through hormone release."
+            ],
+            [
+                0.0,
+                "kidneys filter waste products and excess fluids from the blood, maintain electrolyte balance, regulate blood pressure, and remove toxins from the body."
+            ]
+        ],
+        "perceived_faithfulness": 1.0,
+        "perceived_relevancy": 1.0,
+        "f_rationales": [
+            "The kidneys filter waste products and excess fluids from the blood, maintain electrolyte balance, regulate blood pressure, and remove toxins from the body."
+        ],
+        "r_rationales": [
+            "The kidneys filter waste products and excess fluids from the blood, maintain electrolyte balance, regulate blood pressure, and remove toxins from the body."
+        ]
+    },
+    "729826e2-e49f-4a5a-ab0a-7a78798df257": {
+        "query": "What does the abbreviation REM stand for in the context of sleep phases?",
+        "response": "The abbreviation REM stands for Rapid Eye Movement. It is a phase of sleep characterized by rapid movements of the eyes and is associated with dreaming.\n\n**Rapid Eye Movement (REM) Sleep:**\n\nREM sleep is one of the phases of sleep that occurs in cycles throughout the night. During REM sleep, the eyes move rapidly in various directions, and this phase is closely linked with dreaming. In babies, REM sleep is known as active sleep, where they may move, make sounds, and breathe irregularly. This phase is crucial for emotional health and memory consolidation.\n\n**Learn More About:**\n\n- What are the different sleep phases and their importance for overall health?\n- How does the duration and quality of REM sleep change with age?\n- What are some common misconceptions about REM sleep and its role in sleep health?",
+        "measured_faithfulness": "1.0",
+        "measured_relevancy": "1.0",
+        "f_inputs": [
+            [
+                1.0,
+                "REM sleep is one of the phases of sleep that occurs in cycles throughout the night"
+            ],
+            [
+                1.0,
+                "The abbreviation REM stands for Rapid Eye Movement. "
+            ],
+            [
+                0.0,
+                "Daarnaast wordt een slaapcyclus steeds langer en\nbrengen kinderen relatief minder tijd door in de actieve slaap of REM slaap. In vergelijking met\nvolwassenen brengen jonge kinderen veel meer tijd door in de REM slaap. Bij baby\u2019s bestaat de slaap nog\nvoor ongeveer de helft uit de actieve (REM) slaap, bij driejarigen is dit nog ongeveer 30%, terwijl bij\nvolwassenen slechts ongeveer 20% van de slaap uit REM slaap bestaat.\nSlaap bij kinderen (4 -12 jaar)\nOp de leeftijd van vier jaar duurt een slaapcyclus ongeveer 90-100 minuten. Op de leeftijd van 5 jaar loopt\nhet percentage REM slaap terug naar ongeveer 18,5%.\nSlaap bij adolescenten (vanaf 12 jaar)\nHet percentage REM slaap blijft min of meer hetzelfde (18,5%) tot in de adolescentie. Dan neemt het\npercentage REM slaap weer toe naar ongeveer 22%. Vervolgens neemt de REM slaap in de volwassen\nleeftijd weer iets af naar 20% en bij ouderen (70+) zelfs naar een percentage van 14%."
+            ],
+            [
+                1.0,
+                "The abbreviation REM stands for Rapid Eye Movement. It is a phase of sleep characterized by rapid movements of the eyes and is associated with dreaming."
+            ],
+            [
+                0.0,
+                "Bij baby\u2019s bestaat de slaap nog\nvoor ongeveer de helft uit de actieve (REM) slaap,( No definition included.)"
+            ]
+        ],
+        "r_inputs": [
+            [
+                1.0,
+                " During REM sleep, the eyes move rapidly in various directions, and this phase is closely linked with dreaming"
+            ],
+            [
+                1.0,
+                "It is a phase of sleep characterized by rapid movements of the eyes and is associated with dreaming."
+            ],
+            [
+                1.0,
+                "The abbreviation REM stands for Rapid Eye Movement."
+            ],
+            [
+                0.0,
+                "beweegt het kind nauwelijks. De ademhaling is rustig en regelmatig. Baby\u2019s in stille slaap worden minder\nsnel wakker door geluid en andere omgevingsfactoren. Na afloop van de stille slaap, wat tevens het einde\nis van de slaapcyclus, wordt een baby wakker, of "
+            ],
+            [
+                1.0,
+                "he abbreviation REM stands for Rapid Eye Movement."
+            ]
+        ],
+        "perceived_faithfulness": 1.0,
+        "perceived_relevancy": 1.0,
+        "f_rationales": [
+            "The abbreviation REM stands for Rapid Eye Movement. ",
+            "The abbreviation REM stands for Rapid Eye Movement. It is a phase of sleep characterized by rapid movements of the eyes and is associated with dreaming."
+        ],
+        "r_rationales": [
+            "The abbreviation REM stands for Rapid Eye Movement.",
+            "he abbreviation REM stands for Rapid Eye Movement."
+        ]
+    },
+    "7f553901-59b3-4d7a-b695-c049e5b4a392": {
+        "query": "What is the first subtopic discussed under \"Thema 1. Introductie gezonde slaap\"?",
+        "response": "I'm sorry, but the provided context does not include \"Thema 1. Introductie gezonde slaap.\" It starts with \"Thema 2. Introductie slaapproblemen.\" To assist you better, could you please tell me more about the specific aspects of sleep health you are interested in? For example, are you looking for information on sleep duration recommendations for children, or strategies to improve sleep quality?",
+        "measured_faithfulness": "0.0",
+        "measured_relevancy": "1.0",
+        "f_inputs": [
+            [
+                1.0,
+                "I'm sorry, but the provided context does not include \"Thema 1. Introductie gezonde slaap.\" It starts with \"Thema 2. Introductie slaapproblemen"
+            ],
+            [
+                0.0,
+                "Titel: JGZ richtlijn Gezonde slaap en slaapproblemen\nPreventie, signalering, diagnostiek en interventie bij slaapproblemen in de JGZ.\n"
+            ],
+            [
+                0.0,
+                "Titel: JGZ richtlijn Gezonde slaap en slaapproblemen\n\n\n    van Litsenburg RR, Waumans RC, van den Berg G, Gemke RJ. Sleep habits and sleep disturbances in\n    dutch children: A population-based study. \u200b Eur J Pediatr \u200b . 2010;169(8):1009-1015.\n    van der Heijden KB, de Sonneville LM, Swaab H. Association of eveningness with problem behavior in\n    children: A mediating role of impaired sleep. \u200b Chronobiol Int \u200b . 2013;30(7):919-929.\n    Owens JA, Belon K, Moss P. Impact of delaying school start time on adolescent sleep, mood, and\n    behavior. \u200b Arch Pediatr Adolesc Med \u200b . 2010;164(7):608-614.\n    Gradisar M, Gardner G, Dohnt H. Recent worldwide sleep patterns and problems during adolescence: A\n    review and meta-analysis of age, region, and sleep. \u200b Sleep Med \u200b . 2011;12(2):110-118.\n\nThema 2. Introductie slaapproblemen\nDeze introductie beschrijft de definitie van slaapproblemen en slaapstoornissen, de prevalentie en de\ngevolgen van slaapproblemen.\n"
+            ],
+            [
+                0.0,
+                "I'm sorry, but the provided context does not include \"Thema 1. Introductie gezonde slaap.\" It starts with \"Thema 2. Introductie slaapproblemen.\" To assist you better, could you please tell me more about the specific aspects of sleep health you are interested in? For example, are you looking for information on sleep duration recommendations for children, or strategies to improve sleep "
+            ],
+            [
+                0.0,
+                "Introductie slaapproblemen\nDeze introductie beschrijft de definitie van slaapproblemen en slaapstoornissen, de prevalentie en de\ngevolgen van slaapproblemen."
+            ]
+        ],
+        "r_inputs": [
+            [
+                1.0,
+                "For example, are you looking for information on sleep duration recommendations for children, or strategies to improve sleep quality"
+            ],
+            [
+                0.0,
+                "JGZ richtlijn Gezonde slaap en slaapproblemen\nPreventie, signalering, diagnostiek en interventie bij slaapproblemen in de JGZ"
+            ],
+            [
+                1.0,
+                "m sorry, but the provided context does not include \"Thema 1. Introductie gezonde slaap.\" It starts with \"Thema 2. I"
+            ],
+            [
+                0.0,
+                "Thema 2. Introductie slaapproblemen\nDeze introductie beschrijft de definitie van slaapproblemen en slaapstoornissen, de prevalentie en de\ngevolgen van slaapproblemen."
+            ],
+            [
+                1.0,
+                "e provided context does not include \"Thema 1. Introductie gezonde slaap.\" It starts with \"Thema 2. Introductie slaapproblemen."
+            ]
+        ],
+        "perceived_faithfulness": 0.0,
+        "perceived_relevancy": 1.0,
+        "f_rationales": [
+            "I'm sorry, but the provided context does not include \"Thema 1. Introductie gezonde slaap.\" It starts with \"Thema 2. Introductie slaapproblemen",
+            "I'm sorry, but the provided context does not include \"Thema 1. Introductie gezonde slaap.\" It starts with \"Thema 2. Introductie slaapproblemen.\" To assist you better, could you please tell me more about the specific aspects of sleep health you are interested in? For example, are you looking for information on sleep duration recommendations for children, or strategies to improve sleep "
+        ],
+        "r_rationales": [
+            "m sorry, but the provided context does not include \"Thema 1. Introductie gezonde slaap.\" It starts with \"Thema 2. I",
+            "e provided context does not include \"Thema 1. Introductie gezonde slaap.\" It starts with \"Thema 2. Introductie slaapproblemen."
+        ]
+    },
+    "d91ae3ae-c504-4266-9b46-baf562e9949e": {
+        "query": "What is the first topic discussed under \"Thema 7. Samenwerken en doorverwijzen bij slaapproblemen\"?",
+        "response": "The first topic discussed under \"Thema 7. Samenwerken en doorverwijzen bij slaapproblemen\" is the introduction to the theme, which highlights the role of various healthcare providers and institutions in preventing, identifying, and treating sleep problems and disorders.\n\n**Introduction to Collaboration and Referral for Sleep Problems:**\n\nThe initial section of \"Thema 7\" emphasizes the collaborative efforts needed among different healthcare providers and institutions to address sleep issues effectively. It outlines the responsibilities of youth healthcare (JGZ) professionals and other specialists in managing sleep problems. The theme also provides recommendations for coordination and referral to ensure comprehensive care for children with sleep difficulties.\n\n**Learn More About:**\n\n- What are the specific recommendations for referring children with sleep problems to specialists?\n- How can healthcare providers coordinate care effectively for families dealing with sleep issues?\n- What are some common challenges in managing sleep problems that require a multidisciplinary approach?",
+        "measured_faithfulness": "1.0",
+        "measured_relevancy": "1.0",
+        "f_inputs": [
+            [
+                1.0,
+                "The initial section of \"Thema 7\" emphasizes the collaborative efforts needed among different healthcare providers and institutions to address sleep issues effectively. It outlines the responsibilities of youth healthcare "
+            ],
+            [
+                1.0,
+                "The first topic discussed under \"Thema 7. Samenwerken en doorverwijzen bij slaapproblemen\" is the introduction to the theme, which highlights the role of various healthcare providers and institutions in preventing, identifying, and treating sleep problems and disorders."
+            ],
+            [
+                1.0,
+                "Thema 7. Samenwerken en doorverwijzen bij slaapproblemen\nInleiding op het thema\nEen groot aantal zorgverleners en instanties heeft een taak bij het voorkomen, signaleren en behandelen\nvan slaapproblemen en stoornissen. Hieronder wordt de taak van de JGZ geschetst en de taak van andere\nzorgverleners en instanties. Ook worden er aanbevelingen gedaan wat betreft de samenwerking daarin.\n"
+            ],
+            [
+                1.0,
+                "The first topic discussed under \"Thema 7. Samenwerken en doorverwijzen bij slaapproblemen\" is the introduction to the theme, which highlights the role of various healthcare providers and institutions in preventing, identifying, and treating sleep problems and disorders."
+            ],
+            [
+                1.0,
+                "Samenwerken en doorverwijzen bij slaapproblemen"
+            ]
+        ],
+        "r_inputs": [
+            [
+                1.0,
+                "It outlines the responsibilities of youth healthcare (JGZ) professionals and other specialists in managing sleep problems"
+            ],
+            [
+                1.0,
+                "The initial section of \"Thema 7\" emphasizes the collaborative efforts needed among different healthcare providers and institutions to address sleep issues effectively"
+            ],
+            [
+                1.0,
+                "The first topic discussed under \"Thema 7. Samenwerken en doorverwijzen bij slaapproblemen\" is the introduction to the theme, which highlights the role of various healthcare providers and institutions in preventing, identifying, and treating sleep problems and disorders."
+            ],
+            [
+                1.0,
+                "Thema 7. Samenwerken en doorverwijzen bij slaapproblemen\n\nInleiding op het thema\nEen groot aantal zorgverleners en instanties heeft een taak bij het voorkomen, signaleren en behandelen\nvan slaapproblemen en stoornissen. Hieronder wordt de taak van de JGZ geschetst en de taak van andere\nzorgverleners en instanties. Ook worden er aanbevelingen gedaan wat betreft de samenwerking daarin.\nAanbevelingen\nHet verdient aanbeveling kinderen en hun ouders door te verwijzen naar de huisarts, een\nkinderarts of een andere specialist in het ziekenhuis, of naar een specialist in een slaap-waak\ncentrum indien:\nI. de oorzaak van het slaapprobleem van medische aard lijkt (zie \u200b Thema 5.)\nII. de oorzaak van het slaapprobleem onduidelijk is, na een gedegen anamnese (zie \u200b Bijlage 1.)\nIII. een gedragsmatige aanpak (zie \u200b Thema 6.) \u200b door de JGZ "
+            ],
+            [
+                1.0,
+                " Samenwerken en doorverwijzen bij slaapproblemen\" is the introduction to the theme,"
+            ]
+        ],
+        "perceived_faithfulness": 1.0,
+        "perceived_relevancy": 1.0,
+        "f_rationales": [
+            "The first topic discussed under \"Thema 7. Samenwerken en doorverwijzen bij slaapproblemen\" is the introduction to the theme, which highlights the role of various healthcare providers and institutions in preventing, identifying, and treating sleep problems and disorders."
+        ],
+        "r_rationales": [
+            "The first topic discussed under \"Thema 7. Samenwerken en doorverwijzen bij slaapproblemen\" is the introduction to the theme, which highlights the role of various healthcare providers and institutions in preventing, identifying, and treating sleep problems and disorders.",
+            " Samenwerken en doorverwijzen bij slaapproblemen\" is the introduction to the theme,"
+        ]
+    },
+    "28e79b62-7790-46c8-91e9-17f23b520d48": {
+        "query": "What is the duration of a sleep cycle for babies aged 0-6 months?",
+        "response": "The duration of a sleep cycle for babies aged 0-6 months is approximately 50 to 60 minutes.\n\n**Sleep Cycle Duration for Babies Aged 0-6 Months:**\n\nBabies in the age range of 0-6 months have sleep cycles that last around 50 to 60 minutes. These cycles are shorter than those of adults and consist of two main phases: active sleep (equivalent to REM sleep in adults) and quiet sleep. During active sleep, babies may move, make sounds, and breathe irregularly, while during quiet sleep, they are more still and their breathing is regular. Understanding these cycles can help parents manage their baby's sleep patterns more effectively.\n\n**Learn More About:**\n\n- How do sleep cycles change as a baby grows older?\n- What are some strategies to help babies establish healthy sleep patterns?\n- How can parents differentiate between active and quiet sleep phases in their babies?",
+        "measured_faithfulness": "1.0",
+        "measured_relevancy": "1.0",
+        "f_inputs": [
+            [
+                1.0,
+                "Babies in the age range of 0-6 months have sleep cycles that last around 50 to 60 minutes"
+            ],
+            [
+                0.0,
+                "Figuur 1. \u200b Voorbeeld van de opbouw van de slaapstadia en cycli gedurende een nacht.\nSlaap bij baby\u2019s (0-6 maanden)\nBaby\u2019s hebben twee slaapfasen in een slaapcyclus: actieve slaap en stille slaap, en zij doorlopen kortere\nslaapcycli dan volwassenen. Tijdens de eerste zes maanden duurt een slaapcyclus zo\u2019n 50 tot 60 minuten.\nEerst hebben baby\u2019s de actieve slaap, dit is het equivalent van de REM slaap bij volwassenen. In deze\nslaapfase kunnen baby\u2019s bewegen, lachen of zelfs geluidjes maken en ademen zij snel en onregelmatig."
+            ],
+            [
+                1.0,
+                "The duration of a sleep cycle for babies aged 0-6 months is approximately 50 to 60 minute"
+            ],
+            [
+                1.0,
+                "Overdag slaapt een baby meestal\n2,5 tot 4 uur achter elkaar."
+            ]
+        ],
+        "r_inputs": [
+            [
+                1.0,
+                "These cycles are shorter than those of adults and consist of two main phases: active sleep (equivalent to REM sleep in adults) and quiet sleep"
+            ],
+            [
+                1.0,
+                "The duration of a sleep cycle for babies aged 0-6 months is approximately 50 to 60 minutes.\n\nSleep Cycle Duration for Babies Aged 0-6 Months:\n\nBabies in the age range of 0-6 months have sleep cycles that last around 50 to 60 minutes. These cycles are shorter than those of adults and consist of two main phases: active sleep (equivalent to REM sleep in adults) and quiet sleep. During active sleep, babies may move, make sounds, and breathe irregularly, while during quiet sleep, they are more still and their breathing is regular. Understanding these cycles can help parents manage their baby's sleep patterns more effectively."
+            ],
+            [
+                1.0,
+                "Figuur 1. \u200b Voorbeeld van de opbouw van de slaapstadia en cycli gedurende een nacht.\nSlaap bij baby\u2019s (0-6 maanden)\nBaby\u2019s hebben twee slaapfasen in een slaapcyclus: actieve slaap en stille slaap, en zij doorlopen kortere\nslaapcycli dan volwassenen. Tijdens de eerste zes maanden duurt een slaapcyclus zo\u2019n 50 tot 60 minuten."
+            ],
+            [
+                0.0,
+                "Babies in the age range of 0-6 months have sleep cycles that last around 50 to 60 minutes"
+            ]
+        ],
+        "perceived_faithfulness": 1.0,
+        "perceived_relevancy": 1.0,
+        "f_rationales": [
+            "Babies in the age range of 0-6 months have sleep cycles that last around 50 to 60 minutes",
+            "The duration of a sleep cycle for babies aged 0-6 months is approximately 50 to 60 minute"
+        ],
+        "r_rationales": [
+            "These cycles are shorter than those of adults and consist of two main phases: active sleep (equivalent to REM sleep in adults) and quiet sleep",
+            "The duration of a sleep cycle for babies aged 0-6 months is approximately 50 to 60 minutes.\n\nSleep Cycle Duration for Babies Aged 0-6 Months:\n\nBabies in the age range of 0-6 months have sleep cycles that last around 50 to 60 minutes. These cycles are shorter than those of adults and consist of two main phases: active sleep (equivalent to REM sleep in adults) and quiet sleep. During active sleep, babies may move, make sounds, and breathe irregularly, while during quiet sleep, they are more still and their breathing is regular. Understanding these cycles can help parents manage their baby's sleep patterns more effectively."
+        ]
+    },
+    "4213f8cd-d22d-4386-accd-cad73232831d": {
+        "query": "What are the signs that a child might not be getting enough sleep?",
+        "response": "There are several signs that a child might not be getting enough sleep. These can include:\n\n**Signs of Insufficient Sleep in Children:**\n\n- **Difficulty Waking Up:** If a child has trouble waking up in the morning and feels groggy, it may indicate they are not getting enough restful sleep.\n- **Daytime Sleepiness:** Excessive yawning, rubbing eyes, or needing naps during the day can be signs of sleep deprivation.\n- **Irritability and Mood Swings:** Children who are not getting enough sleep may be more irritable, emotional, or prone to mood swings.\n- **Difficulty Concentrating:** Lack of sleep can affect a child's ability to focus and concentrate on tasks, leading to poorer school performance.\n- **Hyperactivity:** Paradoxically, some children may become more hyperactive when they are tired, which can sometimes be mistaken for attention deficit hyperactivity disorder (ADHD).\n- **Frequent Illness:** Chronic sleep deprivation can weaken the immune system, making children more susceptible to infections and illnesses.\n\n**Learn More About:**\n\n- How can parents establish a bedtime routine to improve their child's sleep?\n- What are the recommended sleep durations for different age groups?\n- Are there any common sleep disorders in children that parents should be aware of?",
+        "measured_faithfulness": "1.0",
+        "measured_relevancy": "1.0",
+        "f_inputs": [
+            [
+                1.0,
+                "Difficulty Waking Up: If a child has trouble waking up in the morning and feels groggy, it may indicate they are not getting enough restful sleep."
+            ],
+            [
+                1.0,
+                "Difficulty Waking Up: If a child has trouble waking up in the morning and feels groggy, it may indicate they are not getting enough restful sleep."
+            ]
+        ],
+        "r_inputs": [
+            [
+                1.0,
+                "Daytime Sleepiness: Excessive yawning, rubbing eyes, or needing naps during the day can be signs of sleep deprivation.\nIrritability and Mood Swings: Children who are not getting enough sleep may be more irritable, emotional, or prone to mood swings."
+            ],
+            [
+                1.0,
+                "Daytime Sleepiness: Excessive yawning, rubbing eyes, or needing naps during the day can be signs of sleep deprivation.\nIrritability and Mood Swings: Children who are not getting enough sleep may be more irritable, emotional, or prone to mood swings."
+            ]
+        ],
+        "perceived_faithfulness": 1.0,
+        "perceived_relevancy": 1.0,
+        "f_rationales": [
+            "Difficulty Waking Up: If a child has trouble waking up in the morning and feels groggy, it may indicate they are not getting enough restful sleep."
+        ],
+        "r_rationales": [
+            "Daytime Sleepiness: Excessive yawning, rubbing eyes, or needing naps during the day can be signs of sleep deprivation.\nIrritability and Mood Swings: Children who are not getting enough sleep may be more irritable, emotional, or prone to mood swings."
+        ]
+    },
+    "e3027b90-054c-44ef-8134-76289364dd3e": {
+        "query": "What percentage of sleep does a three-year-old child spend in REM sleep?",
+        "response": "A three-year-old child spends approximately 30% of their sleep in REM (Rapid Eye Movement) sleep.\n\n**REM Sleep Percentage for a Three-Year-Old:**\n\nAt the age of three, children spend about 30% of their total sleep time in the REM sleep phase. This is a higher percentage compared to adults, who spend around 20% of their sleep in REM. REM sleep is crucial for cognitive development, emotional regulation, and memory consolidation. As children grow older, the percentage of REM sleep gradually decreases.\n\n**Learn More About:**\n\n- How does the percentage of REM sleep change as a child grows older?\n- What are the benefits of REM sleep for a child's development?\n- Are there any common sleep issues in three-year-olds that parents should be aware of?",
+        "measured_faithfulness": "1.0",
+        "measured_relevancy": "1.0",
+        "f_inputs": [
+            [
+                1.0,
+                "A three-year-old child spends approximately 30% of their sleep in REM (Rapid Eye Movement) sleep."
+            ]
+        ],
+        "r_inputs": [
+            [
+                1.0,
+                "At the age of three, children spend about 30% of their total sleep time in the REM sleep phase."
+            ]
+        ],
+        "perceived_faithfulness": 0.0,
+        "perceived_relevancy": 0.0,
+        "f_rationales": [],
+        "r_rationales": []
+    }
+}
